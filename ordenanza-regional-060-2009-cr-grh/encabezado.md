@@ -1,0 +1,16 @@
+ORDENANZA REGIONAL
+Nº 060-2009-CR-GRH
+Huánuco, 30 de abril del 2009
+EL PRESIDENTE DEL GOBIERNO REGIONAL
+HUÁNUCO
+POR CUANTO:
+Visto, en Sesión Extraordinaria de Consejo Regional de fecha 24 de abril de 2009, el Dictamen Nº 004-2009-CPPATAL/GRH, de la Comisión Permanente de Planeamiento, Presupuesto, Acondicionamiento Territorial y Asuntos Legales relacionado al Inicio del Proceso de Planeamiento y Presupuesto Participativo Regional 2010, del Gobierno Regional Huánuco”,
+CONSIDERANDO:
+Que, conforme lo señalan los artículos 2º, 4º y 5º de la Ley Nº 27867- Orgánica de Gobiernos Regionales, éstos, emanan de la voluntad popular, son personas jurídicas de derecho público con autonomía política, económica y administrativa, tienen por misión organizar y conducir la gestión pública regional de acuerdo a sus competencias exclusivas, compartidas y delegadas en el marco de las políticas nacionales y sectoriales, para contribuir con el desarrollo integral y sostenible de la región, sus normas y disposiciones se rigen por los principios de exclusividad, territorialidad, legalidad y simplificación administrativa;
+Que, el numeral 19.1 del artículo 19º de la Ley Nº 27783 de Bases de la Descentralización señala que el Presupuesto Anual de la República es Descentralizado y Participativo, se formula y aprueba conforme a la Constitución y las normas presupuestarias vigentes, distinguiéndose los tres niveles de Gobierno: Nacional, Regional y Local, estos últimos aprueban su presupuesto de acuerdo a la Ley de Gestión Presupuestaria del Estado; Asimismo, los Gobiernos Regionales y Locales, se sustentan y rigen por presupuestos participativos anuales, los mismos que se formulan y ejecutan conforme a Ley, en concordancia con los Planes de Desarrollo Concertado conforme lo expone el numeral 19.1 del artículo 20º de la acotada norma legal;
+Que, es competencia exclusiva de los Gobiernos Regionales aprobar su organización interna y su presupuesto institucional conforme a la Ley de Gestión Presupuestaria del Estado y la Leyes Anuales de Presupuesto;
+Que, mediante Ley Nº 28056 se aprueba la Ley Marco del Presupuesto Participativo y su reglamento, la misma que en su artículo 1º precisa que “… El proceso de Presupuesto Participativo es un mecanismo de asignación equitativa racional, eficiente, eficaz y transparente de los recursos públicos que fortalece las relaciones Estado y sociedad Civil respectivamente…”;
+Que, el Instructivo Nº 002-2008-MEF-76.01, establece el inicio del Proceso de Presupuesto Participativo 2010, el mismo que constituye, el instrumento normativo orientador, para el proceso de Presupuesto Participativo, que capitaliza experiencias de anteriores procesos;
+Que, el Presupuesto Participativo, es un instrumento de decisión y gestión democrático para el uso de recursos asignados del Presupuesto Regional, en función del Plan Concertado de Desarrollo Regional, en donde se definen roles, responsabilidades y obras concertadas;
+Estando a lo expuesto, y conforme a las atribuciones conferidas por los artículos 15º, 37º y 38º de la Ley Nº 27867 - Orgánica de Gobiernos Regionales y a lo acordado por UNANIMIDAD en Sesión de Consejo Regional de la referencia, con dispensa del trámite de lectura y aprobación del acta;
+ORDENA:
