@@ -1,0 +1,1 @@
+Artículo Primero.- ENCARGAR a las Oficinas Competentes la modificación del Reglamento de Organización y Funciones (ROF) y Cuadro de Asignación de Personal del Gobierno Regional de Huánuco, (CAP), incorporando la Unidad de Certificación Ambiental.

@@ -1,0 +1,1 @@
+Artículo Segundo.- ENCARGAR a la Gerencia Regional de Recursos Naturales y Gestión Ambiental del Gobierno Regional de Huánuco la elaboración del Manual de Operaciones para la implementación de esta ordenanza en el término de siete (7) días naturales a partir de la publicación de la presente ordenanza.
