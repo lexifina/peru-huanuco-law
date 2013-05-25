@@ -1,0 +1,1 @@
+Artículo Segundo.- DEJAR SUBSISTENTE, todos los demás Artículos de la Ordenanza Regional Nº 020-2011-CR/GRH, de fecha 27 de diciembre del 2011.
