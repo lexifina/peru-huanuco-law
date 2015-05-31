@@ -1,0 +1,22 @@
+ORDENANZA REGIONAL
+Nº 013- 2015-CR/GRH
+Huánuco, 25 de mayo del 2015
+EL PRESIDENTE DEL GOBIERNO
+REGIONAL HUÁNUCO
+POR CUANTO:
+Visto, en Sesión Ordinaria del Consejo Regional, de fecha veintitrés de mayo del dos mil quince, el Dictamen Nº 016-015-GRHCO-CR/CPPPAT-AL, de la Comisión Permanente de Planeamiento, Presupuesto, y Acondicionamiento Territorial y Asuntos Legales, relacionado a la aprobación de modificación del Reglamento de Organización y Funciones (ROF), de la Dirección de Red de Salud Huánuco – Unidad Ejecutora 404 – Salud Huánuco; y,
+CONSIDERANDO:
+Que, el Artículo 191º de la Constitución Política del Estado, modificado por la Ley de Reforma Constitucional del Capítulo XIV del Título IV sobre Descentralización - Ley Nº 27680, establece que los gobiernos regionales tienen autonomía política, económica y administrativa en los asuntos de su competencia; y el artículo 192º en su inciso 1) establece que los Gobiernos Regionales son competentes para aprobar su organización interna y su presupuesto;
+Que, el artículo 35º de la Ley de Bases de la Descentralización Nº 27783, establece que los Gobiernos Regionales son competentes para aprobar su organización interna y su presupuesto institucional conforme a la Ley de Gestión Presupuestaria del Estado y las Leyes Anuales de Presupuesto;
+Que, de conformidad a lo establecido en el Artículo 4º de la Ley Nº 27658, Ley Marco de la Modernización de Gestión del Estado señala que el proceso de modernización de la gestión del estado, tiene como finalidad fundamental la obtención de mayores niveles de eficiencia del aparato estatal, de manera que se logre una mejor atención a la ciudadanía, priorizando y optimizando el uso de los recursos públicos, alcanzando un estado con servidores públicos calificados y adecuadamente remunerados;
+Que, mediante Decreto Supremo Nº 043-2006-PCM, de fecha 26 de Julio de 2006, se aprobaron los lineamientos para la elaboración y aprobación del Reglamento de Organización y Funciones – ROF de las Entidades de la Administración Pública, de los criterios para la creación de unidades orgánicas de acuerdo al inciso c) Art. 22 Si se establece, por la naturaleza de las funciones a desarrollar, la necesidad de independizar ciertos servicios o tareas, y en base a lo establecido en el Título III Aprobación del ROF.- Art. 28º De la necesidad de aprobar el ROF, inciso
+c) Por efecto de la transferencia de funciones en el marco del proceso de descentralización y f) Para optimizar o simplificar los procesos de la entidad, con la finalidad de cumplir con mayor eficiencia su misión y funciones.
+Que, de conformidad a lo establecido en el literal a), del Artículo 15º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, es atribución del Consejo Regional, aprobar modificar o derogar las normas que regulen o reglamenten los asuntos y materias de competencias y funciones del Gobierno Regional,
+Que, mediante Informe Nº 010-2015-GRH-GRPPAT/ SGDIS/GACB de fecha 20 de mayo del 2015, presentado por la Sub Gerencia de Desarrollo Institucional y Sistemas solicita la aprobación del proyecto de Reglamento de Organización y Funciones (ROF) de la Dirección de Red de Salud Huánuco - Unidad Ejecutora 404 – Salud Huánuco, instrumento de gestión adecuado y modificado en el marco de las necesidades surgidas de la experiencia de la Descentralización; así como concordado con la normatividad legal vigente que rige el actual proceso de modernización de la gestión del Estado y de las nuevas tendencias del desarrollo organizacional; evitándose cualquier caso de duplicidad de funciones entre sus distintos Órganos y Dependencias;
+Que, la presente Ordenanza Regional cuenta con el dictamen favorable de la Comisión Permanente de Planeamiento, Presupuesto, Acondicionamiento Territorial del Consejo Regional y de conformidad con las atribuciones conferidas por los Artículos 9º, 10º, 11º, 15º, y 38 de la Ley Orgánica de Gobierno Regionales Nº 27867;
+Estando a lo expuesto, y conforme a las atribuciones conferidas por los artículos 15 y 38 de la Ley Nº 27867 - Ley Orgánica de Gobiernos Regionales y a lo aprobado por UNANIMIDAD en la Sesión de Consejo Regional de la referencia, con dispensa del trámite de lectura y aprobación del acta.
+Ha aprobado la siguiente Ordenanza Regional:
+ORDENANZA QUE APRUEBA LA MODIFICACIÓN DEL REGLAMENTO DE ORGANIZACIÓN Y
+FUNCIONES (ROF) DE LA DIRECCIÓN DE RED DE
+SALUD HUÁNUCO - UNIDAD EJECUTORA
+404 – SALUD HUÁNUCO
