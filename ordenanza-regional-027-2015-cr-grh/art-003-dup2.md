@@ -1,0 +1,1 @@
+Artículo Tercero.- ENCARGAR, el cumplimiento e implementación de lo dispuesto en la presente Ordenanza Regional al Gobernador Regional, Gerencia Regional de Desarrollo Social y demás Gerencias del Gobierno Regional.
