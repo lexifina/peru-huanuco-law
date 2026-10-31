@@ -213,20 +213,42 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-053-2013-cr-grh` | Ordenanza Regional N° 053-2013-CR-GRH: Declaran la promoción de la Quinua y la obligatoriedad de su presencia en eventos y festividades que se realicen en la Región Huánuco y autorizan la organización y celebración del " Año Internacional de la Quinua 2013" | 1 | 2013-09-27 to 2013-09-27 |
 | `ordenanza-regional-006-2015-cr-grh` | Ordenanza Regional N° 006-2015-CR-GRH: Aprueba el Cuadro para Asignación de Personal Provisional (CAP-P) de la Red de Salud Leoncio Prado del Gobierno Regional Huánuco | 1 | 2015-03-30 to 2015-03-30 |
 | `ordenanza-regional-001-2015-cr-grh` | Ordenanza Regional N° 001-2015-CR-GRH: Aprueban modificación del Reglamento de Organización y Funciones - ROF de la Red de Salud Leoncio Prado | 1 | 2015-03-29 to 2015-03-29 |
+| `ordenanza-regional-089-2022-grh-cr` | Ordenanza Regional N° 089-2022-GRH-CR: Declaran de interés y prioridad regional, la propuesta de establecimiento del Área de Conservación Regional Osomayo Milpo | 1 | 2022-11-27 to 2022-11-27 |
+| `ordenanza-regional-078-2021-grh-cr` | Ordenanza Regional N° 078-2021-GRH-CR: Declaran de Prioridad y de Necesidad Pública el Licenciamiento de los Institutos de Educación Superior Tecnológicos y Pedagógicos de la región Huánuco | 1 | 2022-02-25 to 2022-02-25 |
+| `ordenanza-regional-077-2021-grh-cr` | Ordenanza Regional N° 077-2021-GRH-CR: Declaran como política pública regional las compras públicas de productos primarios, agroindustria, apicultura, acuícola, industria, artesanía, manufactura y turismo denominado “Cómprale a Huánuco” | 1 | 2022-02-25 to 2022-02-25 |
+| `ordenanza-regional-075-2021-grh-cr` | Ordenanza Regional N° 075-2021-GRH-CR: Aprueban el Reglamento para el Desarrollo del Proceso del Presupuesto Participativo Basado en Resultados 2023 del Gobierno Regional Huánuco | 1 | 2022-02-25 to 2022-02-25 |
+| `ordenanza-regional-074-2021-grh-cr` | Ordenanza Regional N° 074-2021-GRH-CR: Declaran de necesidad y utilidad pública regional la creación del Hospital Oncológico en la región Huánuco | 1 | 2022-02-25 to 2022-02-25 |
+| `ordenanza-regional-073-2021-grh-cr` | Ordenanza Regional N° 073-2021-GRH-CR: Conforman el Consejo Regional de Salud Huánuco de la Instancia de Coordinación Interinstitucional del Sistema Nacional de Salud | 1 | 2022-02-25 to 2022-02-25 |
+| `ordenanza-regional-054-2020-grh-cr` | Ordenanza Regional N° 054-2020-GRH-CR: Ordenanza que declara de necesidad pública y prioridad regional el reconocimiento, titulación y ampliación de comunidades nativas en el departamento de Huánuco | 1 | 2021-02-28 to 2021-02-28 |
+| `ordenanza-regional-049-2020-grh-cr` | Ordenanza Regional N° 049-2020-GRH-CR: Modifican la Ordenanza Regional N° 025-2020-GRH-CR, que establece como Política Pública Regional Permanente la Promoción y Desarrollo de la Agricultura Familiar con Soberanía y Seguridad Alimentaria Nutricional | 1 | 2021-02-27 to 2021-02-27 |
+| `ordenanza-regional-047-2020-grh-cr` | Ordenanza Regional N° 047-2020-GRH-CR: Declaran de necesidad pública y prioridad regional la culminación y puesta en funcionamiento de todos los establecimientos de salud que están siendo ejecutados por el Gobierno Regional Huánuco | 1 | 2021-02-27 to 2021-02-27 |
+| `ordenanza-regional-046-2020-grh-cr` | Ordenanza Regional N° 046-2020-GRH-CR: Declaran patrimonio regional los terrenos ubicados en el sector Macuya, del Distrito de Tournavista, Provincia de Puerto Inca y Departamento de Huánuco | 1 | 2021-02-27 to 2021-02-27 |
+| `ordenanza-regional-045-2020-grh-cr` | Ordenanza Regional N° 045-2020-GRH-CR: Declaran de prioridad e interés regional, el proceso de creación del Distrito de “Nuevo Porvenir”, en la Provincia de Puerto Inca, Departamento de Huánuco | 1 | 2021-02-27 to 2021-02-27 |
+| `ordenanza-regional-044-2020-grh-cr` | Ordenanza Regional N° 044-2020-GRH-CR: Establecen medidas para las acciones de desplazamiento de personal médico y no médico de las Unidades Ejecutoras del Sector Salud en la Región Huánuco | 1 | 2021-02-27 to 2021-02-27 |
+| `ordenanza-regional-043-2020-grh-cr` | Ordenanza Regional N° 043-2020-GRH-CR: Establecen aplicación de la distribución de la bolsa de trabajo en los proyectos de inversión pública ejecutados por el Gobierno Regional Huánuco | 1 | 2021-02-27 to 2021-02-27 |
+| `ordenanza-regional-031-2020-grh-cr` | Ordenanza Regional N° 031-2020-GRH-CR: Ordenanza Regional que aprueba la modificación de la Ordenanza Regional N° 058-2013-CR-GRH, que crea la Comisión Regional Anticorrupción de la Región Huánuco | 1 | 2020-12-20 to 2020-12-20 |
+| `ordenanza-regional-033-2020-grh-cr` | Ordenanza Regional N° 033-2020-GRH-CR: Ordenanza que declara de necesidad pública e interés regional la pavimentación de diversas vías departamentales del departamento de Huánuco | 1 | 2020-12-19 to 2020-12-19 |
+| `ordenanza-regional-026-2020-grh-cr` | Ordenanza Regional N° 026-2020-GRH-CR: Aprueban el Reglamento para el Desarrollo de Audiencias Públicas de Rendición de Cuentas del Gobierno Regional Huánuco | 1 | 2020-09-27 to 2020-09-27 |
+| `ordenanza-regional-022-2020-grh-cr` | Ordenanza Regional N° 022-2020-GRH-CR: Aprueban modificación del Reglamento Interno del Consejo Regional del Gobierno Regional Huánuco | 1 | 2020-08-22 to 2020-08-22 |
+| `ordenanza-regional-011-2019-grhco` | Ordenanza Regional N° 011-2019-GRHCO: Declaran a la provincia de Leoncio Prado como Provincia Agrícola, Turística y Ecológica de la Región Huánuco | 1 | 2019-12-23 to 2019-12-23 |
+| `ordenanza-regional-007-2019-grh-cr` | Ordenanza Regional N° 007-2019-GRH-CR: Aprueban constitución de la "Mancomunidad Regional Amazónica" | 1 | 2019-11-02 to 2019-11-02 |
+| `ordenanza-regional-004-2019-grhco` | Ordenanza Regional N° 004-2019-GRHCO: Aprueban Texto Único de Procedimientos Administrativos (TUPA) del Gobierno Regional Huánuco | 1 | 2019-07-26 to 2019-07-26 |
+| `ordenanza-regional-002-2019-grhco` | Ordenanza Regional N° 002-2019-GRHCO: Declaran en Reestructuración y Reorganización Administrativa al Gobierno Regional Huánuco en el Marco del Proceso de Modernización de la Gestión Pública | 1 | 2019-05-18 to 2019-05-18 |
+| `ordenanza-regional-101-2018-grhco` | Ordenanza Regional N° 101-2018-GRHCO: Crean el Sistema Regional de Areas de Conservación de la Región Huánuco (SIRACH) | 1 | 2018-12-23 to 2018-12-23 |
 
-The build made 193 commits:
+The build made 215 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 193 | first version of an act |
+| 215 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 193 laws in the record.
-- 386 tags.
+- 215 laws in the record.
+- 430 tags.
 
 ## Dates
 
@@ -238,13 +260,13 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `9a665ae32472b25134e5b4bae774b741c9e2b97fe62f35b0b8318b130723480d` (2812823 bytes).
+- Corpus: sha256 `e52a4c9d0bc68d6e31f413cfc2961c461f15d76e2d9eaee5a2359b6a765accd3` (3195922 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-193 versions of 193 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 

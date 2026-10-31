@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-193 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+215 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -209,6 +209,28 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-053-2013-cr-grh/` | Ordenanza Regional N° 053-2013-CR-GRH: Declaran la promoción de la Quinua y la obligatoriedad de su presencia en eventos y festividades que se realicen en la Re… | in force 27 September 2013 |
 | `ordenanza-regional-006-2015-cr-grh/` | Ordenanza Regional N° 006-2015-CR-GRH: Aprueba el Cuadro para Asignación de Personal Provisional (CAP-P) de la Red de Salud Leoncio Prado del Gobierno Regional … | in force 30 March 2015 |
 | `ordenanza-regional-001-2015-cr-grh/` | Ordenanza Regional N° 001-2015-CR-GRH: Aprueban modificación del Reglamento de Organización y Funciones - ROF de la Red de Salud Leoncio Prado | in force 29 March 2015 |
+| `ordenanza-regional-089-2022-grh-cr/` | Ordenanza Regional N° 089-2022-GRH-CR: Declaran de interés y prioridad regional, la propuesta de establecimiento del Área de Conservación Regional Osomayo Milpo | in force 27 November 2022 |
+| `ordenanza-regional-078-2021-grh-cr/` | Ordenanza Regional N° 078-2021-GRH-CR: Declaran de Prioridad y de Necesidad Pública el Licenciamiento de los Institutos de Educación Superior Tecnológicos y Ped… | in force 25 February 2022 |
+| `ordenanza-regional-077-2021-grh-cr/` | Ordenanza Regional N° 077-2021-GRH-CR: Declaran como política pública regional las compras públicas de productos primarios, agroindustria, apicultura, acuícola,… | in force 25 February 2022 |
+| `ordenanza-regional-075-2021-grh-cr/` | Ordenanza Regional N° 075-2021-GRH-CR: Aprueban el Reglamento para el Desarrollo del Proceso del Presupuesto Participativo Basado en Resultados 2023 del Gobiern… | in force 25 February 2022 |
+| `ordenanza-regional-074-2021-grh-cr/` | Ordenanza Regional N° 074-2021-GRH-CR: Declaran de necesidad y utilidad pública regional la creación del Hospital Oncológico en la región Huánuco | in force 25 February 2022 |
+| `ordenanza-regional-073-2021-grh-cr/` | Ordenanza Regional N° 073-2021-GRH-CR: Conforman el Consejo Regional de Salud Huánuco de la Instancia de Coordinación Interinstitucional del Sistema Nacional de… | in force 25 February 2022 |
+| `ordenanza-regional-054-2020-grh-cr/` | Ordenanza Regional N° 054-2020-GRH-CR: Ordenanza que declara de necesidad pública y prioridad regional el reconocimiento, titulación y ampliación de comunidades… | in force 28 February 2021 |
+| `ordenanza-regional-049-2020-grh-cr/` | Ordenanza Regional N° 049-2020-GRH-CR: Modifican la Ordenanza Regional N° 025-2020-GRH-CR, que establece como Política Pública Regional Permanente la Promoción … | in force 27 February 2021 |
+| `ordenanza-regional-047-2020-grh-cr/` | Ordenanza Regional N° 047-2020-GRH-CR: Declaran de necesidad pública y prioridad regional la culminación y puesta en funcionamiento de todos los establecimiento… | in force 27 February 2021 |
+| `ordenanza-regional-046-2020-grh-cr/` | Ordenanza Regional N° 046-2020-GRH-CR: Declaran patrimonio regional los terrenos ubicados en el sector Macuya, del Distrito de Tournavista, Provincia de Puerto … | in force 27 February 2021 |
+| `ordenanza-regional-045-2020-grh-cr/` | Ordenanza Regional N° 045-2020-GRH-CR: Declaran de prioridad e interés regional, el proceso de creación del Distrito de “Nuevo Porvenir”, en la Provincia de Pue… | in force 27 February 2021 |
+| `ordenanza-regional-044-2020-grh-cr/` | Ordenanza Regional N° 044-2020-GRH-CR: Establecen medidas para las acciones de desplazamiento de personal médico y no médico de las Unidades Ejecutoras del Sect… | in force 27 February 2021 |
+| `ordenanza-regional-043-2020-grh-cr/` | Ordenanza Regional N° 043-2020-GRH-CR: Establecen aplicación de la distribución de la bolsa de trabajo en los proyectos de inversión pública ejecutados por el G… | in force 27 February 2021 |
+| `ordenanza-regional-031-2020-grh-cr/` | Ordenanza Regional N° 031-2020-GRH-CR: Ordenanza Regional que aprueba la modificación de la Ordenanza Regional N° 058-2013-CR-GRH, que crea la Comisión Regional… | in force 20 December 2020 |
+| `ordenanza-regional-033-2020-grh-cr/` | Ordenanza Regional N° 033-2020-GRH-CR: Ordenanza que declara de necesidad pública e interés regional la pavimentación de diversas vías departamentales del depar… | in force 19 December 2020 |
+| `ordenanza-regional-026-2020-grh-cr/` | Ordenanza Regional N° 026-2020-GRH-CR: Aprueban el Reglamento para el Desarrollo de Audiencias Públicas de Rendición de Cuentas del Gobierno Regional Huánuco | in force 27 September 2020 |
+| `ordenanza-regional-022-2020-grh-cr/` | Ordenanza Regional N° 022-2020-GRH-CR: Aprueban modificación del Reglamento Interno del Consejo Regional del Gobierno Regional Huánuco | in force 22 August 2020 |
+| `ordenanza-regional-011-2019-grhco/` | Ordenanza Regional N° 011-2019-GRHCO: Declaran a la provincia de Leoncio Prado como Provincia Agrícola, Turística y Ecológica de la Región Huánuco | in force 23 December 2019 |
+| `ordenanza-regional-007-2019-grh-cr/` | Ordenanza Regional N° 007-2019-GRH-CR: Aprueban constitución de la "Mancomunidad Regional Amazónica" | in force 2 November 2019 |
+| `ordenanza-regional-004-2019-grhco/` | Ordenanza Regional N° 004-2019-GRHCO: Aprueban Texto Único de Procedimientos Administrativos (TUPA) del Gobierno Regional Huánuco | in force 26 July 2019 |
+| `ordenanza-regional-002-2019-grhco/` | Ordenanza Regional N° 002-2019-GRHCO: Declaran en Reestructuración y Reorganización Administrativa al Gobierno Regional Huánuco en el Marco del Proceso de Moder… | in force 18 May 2019 |
+| `ordenanza-regional-101-2018-grhco/` | Ordenanza Regional N° 101-2018-GRHCO: Crean el Sistema Regional de Areas de Conservación de la Región Huánuco (SIRACH) | in force 23 December 2018 |
 
 ## Source
 

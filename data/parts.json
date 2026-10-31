@@ -237,6 +237,33 @@
     "ordenanza-regional-056-2013-cr-grh"
    ],
    "sha256": "5a490c27a70337cd2c53b0dbef5e27850ccd545998edb6d2a1f6e126dd865fd8"
+  },
+  "33-runner-01.json": {
+   "acts": [
+    "ordenanza-regional-002-2019-grhco",
+    "ordenanza-regional-004-2019-grhco",
+    "ordenanza-regional-007-2019-grh-cr",
+    "ordenanza-regional-011-2019-grhco",
+    "ordenanza-regional-022-2020-grh-cr",
+    "ordenanza-regional-026-2020-grh-cr",
+    "ordenanza-regional-031-2020-grh-cr",
+    "ordenanza-regional-033-2020-grh-cr",
+    "ordenanza-regional-043-2020-grh-cr",
+    "ordenanza-regional-044-2020-grh-cr",
+    "ordenanza-regional-045-2020-grh-cr",
+    "ordenanza-regional-046-2020-grh-cr",
+    "ordenanza-regional-047-2020-grh-cr",
+    "ordenanza-regional-049-2020-grh-cr",
+    "ordenanza-regional-054-2020-grh-cr",
+    "ordenanza-regional-073-2021-grh-cr",
+    "ordenanza-regional-074-2021-grh-cr",
+    "ordenanza-regional-075-2021-grh-cr",
+    "ordenanza-regional-077-2021-grh-cr",
+    "ordenanza-regional-078-2021-grh-cr",
+    "ordenanza-regional-089-2022-grh-cr",
+    "ordenanza-regional-101-2018-grhco"
+   ],
+   "sha256": "939e5820081cfb8e33704b5c292b1e34ea41580d34d0b0658810ef6f3fb96619"
   }
  },
  "schema": 1
