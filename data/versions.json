@@ -3010,6 +3010,636 @@
      "sha256": "562779ba5380f91e02ef69a87a69de7a051a79851e258c62fc694dadcc88a77d"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-regional-100-2018-grhco",
+   "short": "Ordenanza Regional N° 100-2018-GRHCO",
+   "title": "Ordenanza Regional N° 100-2018-GRHCO: Aprueban actualización del Sistema Regional de Gestión Ambiental de Huánuco (SRGA - HCO)",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1723654-1",
+   "versions": [
+    {
+     "from": "2018-12-17",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7lpr0UUdaVrB0TTLnm4WqN/*/1723654-1.pdf",
+     "sha256": "b824d62e6a07d2d829dc88b06b236c44bf5c6a0e0350d671d12a7159965325de"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-093-2018-grhco",
+   "short": "Ordenanza Regional N° 093-2018-GRHCO.",
+   "title": "Ordenanza Regional N° 093-2018-GRHCO.: Aprueban la actualización de la conformación y funciones de la Comisión Ambiental Regional - CAR Huánuco",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1700419-1",
+   "versions": [
+    {
+     "from": "2018-10-13",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BVbE8fkA4_O9nFs-WBlycq/*/1700419-1.pdf",
+     "sha256": "cb4aa713ea2e55ac831c8ee89adc6fc29aeb807ee78ab346c0cc4dea42a51c0d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-091-2018-grhco",
+   "short": "Ordenanza Regional N° 091-2018-GRHCO.",
+   "title": "Ordenanza Regional N° 091-2018-GRHCO.: Aprueban la creación del Consejo Regional de Cambio Climático (CORECC) de la Región Huánuco",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1697786-1",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2FCA606Ga2VAWSQX2YqEN-/*/1697786-1.pdf",
+     "sha256": "9f5f56eed20215fe1db90625c3e1b8fd775e5d3d704bb5cc4c56dc4dea7c181a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-089-2018-grhco",
+   "short": "Ordenanza Regional N° 089-2018-GRHCO",
+   "title": "Ordenanza Regional N° 089-2018-GRHCO: Declaran de prioridad y de interés regional el desarrollo de las zonas limitrofes del departamento de Huánuco, que se encuentran en situación crítica y en abandono",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1683647-1",
+   "versions": [
+    {
+     "from": "2018-08-25",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/ClxaC8ml4z49xGTmSZVyz1/*/1683647-1.pdf",
+     "sha256": "1562445656267724ff7fed6a2f0a99b5328dea76530dbd517f9d759b3d538562"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-086-2018-grhco",
+   "short": "Ordenanza Regional N° 086-2018-GRHCO",
+   "title": "Ordenanza Regional N° 086-2018-GRHCO: Aprueban el Texto Único de Procedimientos Administrativos (TUPA) de la Dirección Regional de Transportes y Comunicaciones Huánuco",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1665093-1",
+   "versions": [
+    {
+     "from": "2018-07-05",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/Dw_pJl-daLM8gYD5Ov1ZpP/*/1665093-1.pdf",
+     "sha256": "98f7fc18894bdbea50223684f19a32caf91cca04f4703079045d5b725c98b4e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-080-2018-grhco",
+   "short": "Ordenanza Regional N° 080-2018-GRHCO.",
+   "title": "Ordenanza Regional N° 080-2018-GRHCO.: Aprueban la Estrategia Regional de Cambio Climático de la Región Huánuco y su Plan de Implementación 2017 - 2021 y conforman el Consejo Regional de Cambio Climático",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1626544-1",
+   "versions": [
+    {
+     "from": "2018-03-18",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/ChUIbnR4K0P87-2JSiMaSV/*/1626544-1.pdf",
+     "sha256": "44baec79698e669f0cd46c7d943907fe8f1747f9aeeddf91ae1e26518a0d8834"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-073-2017-grhco",
+   "short": "Ordenanza Regional N° 073-2017-GRHCO",
+   "title": "Ordenanza Regional N° 073-2017-GRHCO: Aprueban Cuadro de Asignación de Personal Provisional (CAP-P) de la Dirección Regional de Salud Huánuco y sus siete Unidades Ejecutoras",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1565444-1",
+   "versions": [
+    {
+     "from": "2017-09-16",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4yP7mK5Ca988qJbAOChYt9/*/1565444-1.pdf",
+     "sha256": "3b2200c2326f4467cfa914f550f849688fb36fabaca32661face236d12434420"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-039-2015-cr-grh",
+   "short": "Ordenanza Regional N° 039-2015-CR-GRH",
+   "title": "Ordenanza Regional N° 039-2015-CR-GRH: Declaran de interés y prioridad regional la producción, transformación y comercialización de la papa en la Región Huánuco",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1354576-3",
+   "versions": [
+    {
+     "from": "2016-03-13",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6GmFD17Jqx58SiramcF9vB/*/1354576-3.pdf",
+     "sha256": "1a4ea3d747903d5f60934e5939c9fbc4384250880989bbb8e8f96208e126b4e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-015-2015-cr-grh",
+   "short": "Ordenanza Regional N° 015-2015-CR-GRH",
+   "title": "Ordenanza Regional N° 015-2015-CR-GRH: Declaran de interés social y público la protección y conservación  de las tres cabeceras de cuenca y la recuperación de los recursos hidrobiológicos y ecosistema del departamento de Huánuco",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1260271-1",
+   "versions": [
+    {
+     "from": "2015-07-11",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/63nS8wsFap380Z9NLikenq/*/1260271-1.pdf",
+     "sha256": "8d8a0d574ae245fe605b7c61def75e0d47f53f74c4da65844376fdd6a85a1996"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-018-2015-cr-grh",
+   "short": "Ordenanza Regional N° 018 2015-CR-GRH",
+   "title": "Ordenanza Regional N° 018 2015-CR-GRH: Aprueban Texto Único de Procedimientos Administrativos - TUPA de la Red de Salud Huánuco",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1257270-1",
+   "versions": [
+    {
+     "from": "2015-07-04",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/ExqNIYtX4JPA_siZDx0PU8/*/1257270-1.pdf",
+     "sha256": "9ead97c2f5a3cc9e561dbcbab73c797447a65479f625c022400765574fe9021d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-010-2015-cr-grh",
+   "short": "Ordenanza Regional N° 010-2015-CR-GRH",
+   "title": "Ordenanza Regional N° 010-2015-CR-GRH: Aprueban el inicio del proceso de Planeamiento Estratégico del Gobierno Regional, para la actualización del Plan de Desarrollo Regional Concertado del Gobierno Regional de Huánuco 2014 - 2021, y el Plan Estratégico Institucional - PEI 2012 - 2016",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1255540-1",
+   "versions": [
+    {
+     "from": "2015-06-28",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/08I2CWGK40V9MR9y5yTOep/*/1255540-1.pdf",
+     "sha256": "0c965c6a67fa1ca224cdd68c941ee64b6e423177a58a1032cb25dc4b6cb0f1a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-016-2015-cr-grh",
+   "short": "Ordenanza Regional N° 016-2015-CR-GRH",
+   "title": "Ordenanza Regional N° 016-2015-CR-GRH: Aprueban la modificación del Reglamento de Organización y Funciones (ROF) del Hospital Regional Hermilio Valdizán Medrano de Huánuco",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1253907-1",
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1_BqOkuo4L0BIJ5LksaE0c/*/1253907-1.pdf",
+     "sha256": "41f154242753a4bcd85d95e3e9638a844c045696b7c5fc5e8f54d80be1a8eb61"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-017-2015-cr-grh",
+   "short": "Ordenanza Regional N° 017-2015-CR-GRH",
+   "title": "Ordenanza Regional N° 017-2015-CR-GRH: Aprueban el Cuadro para Asignación de Personal Provisional (CAP-P) de la Red de Salud Huánuco",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1251323-1",
+   "versions": [
+    {
+     "from": "2015-06-18",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5f98DkO3qJdBt2850OvfpC/*/1251323-1.pdf",
+     "sha256": "523d2c0167ea66162aa3a795663cf20dcf5dc57ce30346492f038bf2cf03e6a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-014-2015-cr-grh",
+   "short": "Ordenanza Regional N° 014-2015-CR/GRH",
+   "title": "Ordenanza Regional N° 014-2015-CR/GRH: Aprueban la modificación del Reglamento de Organización y Funciones (ROF) de la Red de Salud Huamalíes - Huánuco\n\n\n.",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1243331-1",
+   "versions": [
+    {
+     "from": "2015-05-31",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0I7xxId8ardBZEJ_dfhNXK/*/1243331-1.pdf",
+     "sha256": "c9a5cc02bd00464b882e624a4b8c37035660cac4158fbd304020b663a6898754"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-008-2015-cr-grh",
+   "short": "Ordenanza Regional N° 008-2015-CR-GRH",
+   "title": "Ordenanza Regional N° 008-2015-CR-GRH: Aprueban Plan Estratégico de Artesanía de la Región Huánuco 2015-2021",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1240944-1",
+   "versions": [
+    {
+     "from": "2015-05-25",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4d3OG2FMKFw830Db5SXilh/*/1240944-1.pdf",
+     "sha256": "441491b805bb17b3e877f109320c7d5d7aa09ae4ca9c1bb787a3077779b6a2e9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-002-2015-cr-grh",
+   "short": "Ordenanza Regional N° 002-2015-CR-GRH",
+   "title": "Ordenanza Regional N° 002-2015-CR-GRH: Aprueban la declaratoria de necesidad pública e interés regional del proceso de modernización de la gestión pública y la implementación intensiva del gobierno electrónico en el Gobierno Regional Huánuco",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1227953-1",
+   "versions": [
+    {
+     "from": "2015-04-25",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7eb5_Y3NqBs9t9W6d93V_p/*/1227953-1.pdf",
+     "sha256": "ac432e36a5a3c1f46e78afe5921557f65f3332b8ae9c496d63799004fb2bb39b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-003-2015-cr-grh",
+   "short": "Ordenanza Regional N° 003-2015-CR-GRH",
+   "title": "Ordenanza Regional N° 003-2015-CR-GRH: Aprueban declarar de necesidad pública la protección, conservación y puesta en valor del Patrimonio Cultural Arqueológico de la Región Huánuco",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1227953-2",
+   "versions": [
+    {
+     "from": "2015-04-25",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2G4vVdBH4dDAMVOC1380k3/*/1227953-2.pdf",
+     "sha256": "eceea7a5cc473a8b235f3bd168742fbe70a5843f836b47b0f67259d534891b72"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-007-2015-cr-grh",
+   "short": "Ordenanza Regional N° 007-2015-CR-GRH",
+   "title": "Ordenanza Regional N° 007-2015-CR-GRH: Derogan la Ordenanza Regional Nº 094-2014-CR/GRH de fecha 12 de diciembre del 2014",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1226650-1",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0CkwnUfAqoW8xcquXngXK9/*/1226650-1.pdf",
+     "sha256": "839ae8a1acbb6b1dd8ccbc527c1208ea26c7d19259844703f988b48f01968f48"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-093-2014-cr-grh",
+   "short": "Ordenanza Regional N° 093-2014-CR-GRH",
+   "title": "Ordenanza Regional N° 093-2014-CR-GRH: Aprueban la Guía Metodológica de la Estrategia de Sectorización para la Promoción de la Salud en Cogestión con la Comunidad",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1225251-2",
+   "versions": [
+    {
+     "from": "2015-04-19",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0cMtC8RRqfXBybW3XPE9pQ/*/1225251-2.pdf",
+     "sha256": "d1caee3445a3beb8b460a1b5035ac085980a1edba04a26ad09dc66947ffdbc1f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-095-2014-cr-grh",
+   "short": "Ordenanza Regional N° 095-2014-CR-GRH",
+   "title": "Ordenanza Regional N° 095-2014-CR-GRH: Aprueban el reconocimiento y la recomposición de la Comisión Ambiental Regional CAR Huánuco\n\n\n. \n\n\n.",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1225251-3",
+   "versions": [
+    {
+     "from": "2015-04-19",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6qWJBl-SqdIBS7tMZ_SNE-/*/1225251-3.pdf",
+     "sha256": "17c78a77fb943785b6651719cd5e1b0f0c10d75a4ec1046d486ed704346344c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-096-2014-cr-grh",
+   "short": "Ordenanza Regional N° 096-2014-CR-GRH",
+   "title": "Ordenanza Regional N° 096-2014-CR-GRH: Aprueban la modificación de la conformación del Consejo Regional de la Micro y Pequeña Empresa - Huánuco, aprobado mediante Ordenanza Regional N° 0013-2007-CR-GRH",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1225251-4",
+   "versions": [
+    {
+     "from": "2015-04-19",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/75Pkuf3Da9g83_6Gh4QIfQ/*/1225251-4.pdf",
+     "sha256": "6723b1b943be37febcaa96bcecbbbe0d26316baac7a63321cd85d73e16aa47cb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-092-2014-cr-grh",
+   "short": "Ordenanza Regional N° 092-2014-CR-GRH",
+   "title": "Ordenanza Regional N° 092-2014-CR-GRH: Aprueban el Reglamento de Organización y Funciones (ROF) de la Unidad de Gestión Educativa Local - UGEL HUÁNUCO",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1225251-1",
+   "versions": [
+    {
+     "from": "2015-04-19",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DbmqKlVW4Wp9iSBmWcpw62/*/1225251-1.pdf",
+     "sha256": "122e64fb705229778585d7623b4d08fc55ca216849f670d0bb700b44999c6a40"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-005-2015-cr-grh",
+   "short": "Ordenanza Regional N° 005-2015-CR-GRH",
+   "title": "Ordenanza Regional N° 005-2015-CR-GRH: Aprueba el Cuadro para Asignación de Personal Provisional (CAP-P) del  Hospital Regional “Hermilio Valdizán Medrano” de Huánuco del Gobierno Regional Huánuco",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1218024-1",
+   "versions": [
+    {
+     "from": "2015-03-30",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4lx2GFviqgBBrtmjOcf5v4/*/1218024-1.pdf",
+     "sha256": "06882937677caeb85b483b86505cb7a7e29a56115f6bf520e8b47bd590f944e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-004-2015-cr-grh",
+   "short": "Ordenanza Regional N° 004-2015-CR-GRH",
+   "title": "Ordenanza Regional N° 004-2015-CR-GRH: Aprueba el Cuadro para Asignación de Personal Provisional (CAP-P) de la Dirección Regional de Salud Huánuco del Gobierno Regional Huánuco",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1217865-1",
+   "versions": [
+    {
+     "from": "2015-03-30",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EUWLNMxtaQK8nGyhhn6et4/*/1217865-1.pdf",
+     "sha256": "1314a0a2f15b81995d637cd2c292f00e7adb31b246201491542b5a43db72dffa"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-059-2013-cr-grh",
+   "short": "Ordenanza Regional N° 059-2013-CR-GRH",
+   "title": "Ordenanza Regional N° 059-2013-CR-GRH: Declaran de interés regional la atención e implementación del Programa \"Huánuco Accesible\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1027610-1",
+   "versions": [
+    {
+     "from": "2013-12-17",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6f0cYPF1qf0BMdZ5H1vnrd/*/1027610-1.pdf",
+     "sha256": "72fa794472dbd4cf7383196075692f07392ba65de64ed4b1b8bf1c3b49b13abf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-058-2013-cr-grh",
+   "short": "Ordenanza Regional N° 058-2013-CR-GRH",
+   "title": "Ordenanza Regional N° 058-2013-CR-GRH: Crean la Comisión Regional Anticorrupción de la Región Huánuco",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1018057-1",
+   "versions": [
+    {
+     "from": "2013-11-25",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7vk15eacKxg8zJeSrz-G5q/*/1018057-1.pdf",
+     "sha256": "1e84da93c1ab0096455a4ed94197f60c1c2830d140e5f1357d1692b4c9830686"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-055-2013-cr-grh",
+   "short": "Ordenanza Regional N° 055-2013-CR-GRH",
+   "title": "Ordenanza Regional N° 055-2013-CR-GRH: Aprueban el Reglamento de Organización y Funciones - ROF de la Red de Salud  Puerto Inca - Unidad Ejecutora",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/992096-2",
+   "versions": [
+    {
+     "from": "2013-09-27",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0ft7hSHIKFw8W3JFz4HI-6/*/992096-2.pdf",
+     "sha256": "9f23f3d1ecd31dfbf07d09df321d468573b0fb3637fc9c15e29a072c66230881"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-057-2013-cr-grh",
+   "short": "Ordenanza Regional N° 057-2013-CR-GRH",
+   "title": "Ordenanza Regional N° 057-2013-CR-GRH: Aprueban la modificación del Cuadro para Asignación de Personal - CAP  de la sede del Gobierno Regional Huánuco",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/992096-4",
+   "versions": [
+    {
+     "from": "2013-09-27",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/71tgGNopqn1Bg0f1Yi9n-U/*/992096-4.pdf",
+     "sha256": "d6586607673cc69ddd368f3e42c7d110bbefd292daaa66fe307fdf1dbc547401"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-052-2013-cr-grh",
+   "short": "Ordenanza Regional N° 052-2013-CR-GRH",
+   "title": "Ordenanza Regional N° 052-2013-CR-GRH: Aprueban modificación del Cuadro para Asignación de Personal (CAP) de la Unidad de Gestión Educativa Local Leoncio Prado, Órgano Desconcentrado del Gobierno Regional Huánuco",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/963936-1",
+   "versions": [
+    {
+     "from": "2013-07-21",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/ChTcY5fr4ou8azvm4KjWNk/*/963936-1.pdf",
+     "sha256": "2aa253095ea16d34c40e648b3ceb4cfc0a35d55e34d9b55899092f4ad3170379"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-051-2013-cr-grh",
+   "short": "Ordenanza Regional N° 051-2013-CR-GRH",
+   "title": "Ordenanza Regional N° 051-2013-CR-GRH: Aprueban el Reglamento de Organización y Funciones - ROF de la Unidad de Gestión Educativa Local - UGEL Dos de Mayo - Huánuco",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/940508-2",
+   "versions": [
+    {
+     "from": "2013-05-25",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0a0fLw5cq68BhZ3aBZqyW9/*/940508-2.pdf",
+     "sha256": "56154a29d6377c5f14bd913926cc8840411813917a5f432bf907fe9a486f9b21"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-048-2013-cr-grh",
+   "short": "Ordenanza Regional N° 048-2013-CR-GRH",
+   "title": "Ordenanza Regional N° 048-2013-CR-GRH: Modifican artículo segundo de la Ordenanza Regional N° 020-2011-CR/GRH referido a la conformación del Consejo Regional de Fomento Artesanal de Huánuco - COREFARH",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/940508-1",
+   "versions": [
+    {
+     "from": "2013-05-25",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2T-Ky-siazO9oootm9LmvJ/*/940508-1.pdf",
+     "sha256": "87824455126decb5dd76e0b4ba14bcadee6334423a326fd47112a0e283988821"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-050-2013-cr-grh",
+   "short": "Ordenanza Regional N° 050-2013-CR-GRH",
+   "title": "Ordenanza Regional N° 050-2013-CR-GRH: Aprueban Proceso del Plan de Trabajo y el Reglamento del Proceso de Planeamiento y Presupuesto Participativo Basado en Resultados 2014",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/930853-1",
+   "versions": [
+    {
+     "from": "2013-05-02",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/AZhLN4ZjKeJ95djsaxYNRz/*/930853-1.pdf",
+     "sha256": "4591c7e83f732e099c7ad20f867095d1f0441df64c98cfa430da296fe43a619a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-049-2013-cr-grh",
+   "short": "Ordenanza Regional N° 049-2013-CR-GRH",
+   "title": "Ordenanza Regional N° 049-2013-CR-GRH: Crean el Registro Regional de Víctimas de Violencia Política",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/930850-1",
+   "versions": [
+    {
+     "from": "2013-05-02",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6yoqwYE9qe68HBJL2SCBKR/*/930850-1.pdf",
+     "sha256": "7beedac1596b2da6bfba7f1efbb0d495b55e51d7499dceb159328c3b05f89de5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-041-2012-cr-grh",
+   "short": "Ordenanza Regional N° 041-2012-CR-GRH",
+   "title": "Ordenanza Regional N° 041-2012-CR-GRH: Aprueban Cadenas Productivas propuestas por la Dirección Regional de Producción, para la formulación de proyectos productivos dentro del marco del Sistema Nacional de Inversión Pública - SNIP",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/916343-4",
+   "versions": [
+    {
+     "from": "2013-05-02",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5HXxb6a5KJC83hinbx-Mh2/*/916343-4.pdf",
+     "sha256": "8e94def3bed8e9fa982696b6f8552af159a425bd9889994356e19e35a7f943f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-045-2012-crgrh",
+   "short": "Ordenanza Regional N° 045-2012-CRGRH",
+   "title": "Ordenanza Regional N° 045-2012-CRGRH: Derogan las Ordenanzas Regionales N°s. 094-2010-CR/GRH y 095-2010-CR/GRH",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/925397-1",
+   "versions": [
+    {
+     "from": "2013-04-19",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4lswA7pNq7U8uZZVXTHoy0/*/925397-1.pdf",
+     "sha256": "ed831897cb858793429b8e6e8f6fb7f7f43f7e04e6395f9e2b4ec20993791b7d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-042-2012-crgrh",
+   "short": "Ordenanza Regional N° 042-2012-CRGRH",
+   "title": "Ordenanza Regional N° 042-2012-CRGRH: Aprueban la institucionalización de las Escuelas de Campo de Agricultores (ECAS) para las Acciones de Extensión Agraria de los Productores Agropecuarios de la Región Huánuco",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/916343-5",
+   "versions": [
+    {
+     "from": "2013-03-28",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/99TpNNsS41487bFRWj-WkJ/*/916343-5.pdf",
+     "sha256": "0e5ed8d8ff0a4cd2c7dbf6b771ccb8276f7e3f507c028cca3deeb8e3e22cbeed"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-043-2012-crgrh",
+   "short": "Ordenanza Regional N° 043-2012-CRGRH",
+   "title": "Ordenanza Regional N° 043-2012-CRGRH: Aprueba el Cuadro para Asignación de Personal (CAP) de la Red de Salud Huamalíes Unidad Ejecutora 405",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/916343-6",
+   "versions": [
+    {
+     "from": "2013-03-28",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5xA0aYt1af0BlgvFD9TUNW/*/916343-6.pdf",
+     "sha256": "72b9c1ce85aec6cae4f251b1969841aebc318a8e98520102717894e44d58fe98"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-039-2012-cr-grh",
+   "short": "Ordenanza Regional N° 039-2012-CR-GRH",
+   "title": "Ordenanza Regional N° 039-2012-CR-GRH: Aprueban Reglamento de Fiscalización de las Actividades Mineras para la Pequeña Minería, Minería Artesanal y Actividades Mineras para quienes ejercen actividad minera en condiciones similares en la Región Huánuco",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/916343-3",
+   "versions": [
+    {
+     "from": "2013-03-28",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4kToqfSnqRH8OT2EvXJ0YV/*/916343-3.pdf",
+     "sha256": "57f95865b855dfc5f538225108225523315124199cad441b20d1288bea5803b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-044-2012-crgrh",
+   "short": "Ordenanza Regional N° 044-2012-CRGRH",
+   "title": "Ordenanza Regional N° 044-2012-CRGRH: Aprueba el Cuadro para Asignación de Personal (CAP) de la Red de Salud Dos de Mayo Unidad Ejecutora 406",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/916343-7",
+   "versions": [
+    {
+     "from": "2013-03-28",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4BtTklNdavKAYuV_lFfiVi/*/916343-7.pdf",
+     "sha256": "d79df24bd498f24b339d12ee5e00dea772ebf55a7741f4da785b490f05ee7408"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-036-2012-cr-grh",
+   "short": "Ordenanza Regional N° 036-2012-CR-GRH",
+   "title": "Ordenanza Regional N° 036-2012-CR-GRH: Aprueban el Reglamento de Organización y Funciones (ROF) de la Unidad de Gestión Educativa Local - UGEL Huamalíes",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/916343-1",
+   "versions": [
+    {
+     "from": "2013-03-28",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/FCtjDIMVK5j8-FV67aSpHc/*/916343-1.pdf",
+     "sha256": "43a10a23750a514bff01d165f54f8d14ce35661c1ca8227e6f6d25ccead99bf9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-047-2013-cr-grh",
+   "short": "Ordenanza Regional N° 047-2013-CR-GRH",
+   "title": "Ordenanza Regional N° 047-2013-CR-GRH: Aprueban la modificación del Reglamento de Organización y Funciones (ROF) del Gobierno Regional Huánuco",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/916340-1",
+   "versions": [
+    {
+     "from": "2013-03-28",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8BmWVtCC4SVAgy5RKXXk2d/*/916340-1.pdf",
+     "sha256": "3ef3e1d57996d5b6c4685f40a4c69371064a31cd995046561c2e1b31a97e1795"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-037-2012-cr-grh",
+   "short": "Ordenanza Regional N° 037-2012-CR-GRH.",
+   "title": "Ordenanza Regional N° 037-2012-CR-GRH.: Incorporan procedimientos administrativos emitidos por la Dirección Regional de Agricultura al TUPA de la Sede del Gobierno Regional Huánuco",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/892047-1",
+   "versions": [
+    {
+     "from": "2013-01-24",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EhwvpISXKrv9AvbwpKPqcF/*/892047-1.pdf",
+     "sha256": "197e5ea83280453ca7c5cd7c0029d443557a4407326894237f30073e11fea57d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-040-2012-cr-grh",
+   "short": "Ordenanza Regional N° 040-2012-CR-GRH.",
+   "title": "Ordenanza Regional N° 040-2012-CR-GRH.: Incorporan procedimientos administrativos del Ministerio del Ambiente para el otorgamiento de Certificación Ambiental al TUPA de la Sedel del Gobierno Regional Huánuco",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/892047-2",
+   "versions": [
+    {
+     "from": "2013-01-24",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3HQKtWCH4fdAUCwPpis5xs/*/892047-2.pdf",
+     "sha256": "d1c4594e814bcbe49b13b9fbbdef385c927e9027b4f394bd1a3cc88abbab877e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-030-2012-cr-grh",
+   "short": "Ordenanza Regional N° 030-2012-CR-GRH",
+   "title": "Ordenanza Regional N° 030-2012-CR-GRH: Aprueba la modificación del Cuadro para Asignación de Personal (CAP) de la Dirección Regional de Salud del Gobierno Regional Huánuco",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/882035-1",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/17kZUGkcqB1BiLnoR0_3Bk/*/882035-1.pdf",
+     "sha256": "3b2ec5da7dfb1dd2aff28722d78311e7a9d255f5657d9decd20453a9b79122a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-035-2012-cr-grh",
+   "short": "Ordenanza Regional N° 035-2012-CR/GRH",
+   "title": "Ordenanza Regional N° 035-2012-CR/GRH: Aprueban la obligatoriedad de la Colegiatura y Habilitación Profesional para prestar servicios en la Administración Pública en el ámbito de la Región Huánuco",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/872007-1",
+   "versions": [
+    {
+     "from": "2012-12-01",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/FwfaU_Fea7FBXOszHCjtJm/*/872007-1.pdf",
+     "sha256": "986bbd8830332da186116a9391fcdac9e187447f0c5779d5c2a7f4ccac3d931b"
+    }
+   ]
   }
  ]
 }

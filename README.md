@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-215 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+260 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -231,6 +231,57 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-004-2019-grhco/` | Ordenanza Regional N° 004-2019-GRHCO: Aprueban Texto Único de Procedimientos Administrativos (TUPA) del Gobierno Regional Huánuco | in force 26 July 2019 |
 | `ordenanza-regional-002-2019-grhco/` | Ordenanza Regional N° 002-2019-GRHCO: Declaran en Reestructuración y Reorganización Administrativa al Gobierno Regional Huánuco en el Marco del Proceso de Moder… | in force 18 May 2019 |
 | `ordenanza-regional-101-2018-grhco/` | Ordenanza Regional N° 101-2018-GRHCO: Crean el Sistema Regional de Areas de Conservación de la Región Huánuco (SIRACH) | in force 23 December 2018 |
+| `ordenanza-regional-100-2018-grhco/` | Ordenanza Regional N° 100-2018-GRHCO: Aprueban actualización del Sistema Regional de Gestión Ambiental de Huánuco (SRGA - HCO) | in force 17 December 2018 |
+| `ordenanza-regional-093-2018-grhco/` | Ordenanza Regional N° 093-2018-GRHCO.: Aprueban la actualización de la conformación y funciones de la Comisión Ambiental Regional - CAR Huánuco | in force 13 October 2018 |
+| `ordenanza-regional-091-2018-grhco/` | Ordenanza Regional N° 091-2018-GRHCO.: Aprueban la creación del Consejo Regional de Cambio Climático (CORECC) de la Región Huánuco | in force 5 October 2018 |
+| `ordenanza-regional-089-2018-grhco/` | Ordenanza Regional N° 089-2018-GRHCO: Declaran de prioridad y de interés regional el desarrollo de las zonas limitrofes del departamento de Huánuco, que se encu… | in force 25 August 2018 |
+| `ordenanza-regional-086-2018-grhco/` | Ordenanza Regional N° 086-2018-GRHCO: Aprueban el Texto Único de Procedimientos Administrativos (TUPA) de la Dirección Regional de Transportes y Comunicaciones … | in force 5 July 2018 |
+| `ordenanza-regional-080-2018-grhco/` | Ordenanza Regional N° 080-2018-GRHCO.: Aprueban la Estrategia Regional de Cambio Climático de la Región Huánuco y su Plan de Implementación 2017 - 2021 y confor… | in force 18 March 2018 |
+| `ordenanza-regional-073-2017-grhco/` | Ordenanza Regional N° 073-2017-GRHCO: Aprueban Cuadro de Asignación de Personal Provisional (CAP-P) de la Dirección Regional de Salud Huánuco y sus siete Unidad… | in force 16 September 2017 |
+| `ordenanza-regional-039-2015-cr-grh/` | Ordenanza Regional N° 039-2015-CR-GRH: Declaran de interés y prioridad regional la producción, transformación y comercialización de la papa en la Región Huánuco | in force 13 March 2016 |
+| `ordenanza-regional-015-2015-cr-grh/` | Ordenanza Regional N° 015-2015-CR-GRH: Declaran de interés social y público la protección y conservación  de las tres cabeceras de cuenca y la recuperación de l… | in force 11 July 2015 |
+| `ordenanza-regional-018-2015-cr-grh/` | Ordenanza Regional N° 018 2015-CR-GRH: Aprueban Texto Único de Procedimientos Administrativos - TUPA de la Red de Salud Huánuco | in force 4 July 2015 |
+| `ordenanza-regional-010-2015-cr-grh/` | Ordenanza Regional N° 010-2015-CR-GRH: Aprueban el inicio del proceso de Planeamiento Estratégico del Gobierno Regional, para la actualización del Plan de Desar… | in force 28 June 2015 |
+| `ordenanza-regional-016-2015-cr-grh/` | Ordenanza Regional N° 016-2015-CR-GRH: Aprueban la modificación del Reglamento de Organización y Funciones (ROF) del Hospital Regional Hermilio Valdizán Medrano… | in force 24 June 2015 |
+| `ordenanza-regional-017-2015-cr-grh/` | Ordenanza Regional N° 017-2015-CR-GRH: Aprueban el Cuadro para Asignación de Personal Provisional (CAP-P) de la Red de Salud Huánuco | in force 18 June 2015 |
+| `ordenanza-regional-014-2015-cr-grh/` | Ordenanza Regional N° 014-2015-CR/GRH: Aprueban la modificación del Reglamento de Organización y Funciones (ROF) de la Red de Salud Huamalíes - Huánuco
+
+. | in force 31 May 2015 |
+| `ordenanza-regional-008-2015-cr-grh/` | Ordenanza Regional N° 008-2015-CR-GRH: Aprueban Plan Estratégico de Artesanía de la Región Huánuco 2015-2021 | in force 25 May 2015 |
+| `ordenanza-regional-002-2015-cr-grh/` | Ordenanza Regional N° 002-2015-CR-GRH: Aprueban la declaratoria de necesidad pública e interés regional del proceso de modernización de la gestión pública y la … | in force 25 April 2015 |
+| `ordenanza-regional-003-2015-cr-grh/` | Ordenanza Regional N° 003-2015-CR-GRH: Aprueban declarar de necesidad pública la protección, conservación y puesta en valor del Patrimonio Cultural Arqueológico… | in force 25 April 2015 |
+| `ordenanza-regional-007-2015-cr-grh/` | Ordenanza Regional N° 007-2015-CR-GRH: Derogan la Ordenanza Regional Nº 094-2014-CR/GRH de fecha 12 de diciembre del 2014 | in force 23 April 2015 |
+| `ordenanza-regional-093-2014-cr-grh/` | Ordenanza Regional N° 093-2014-CR-GRH: Aprueban la Guía Metodológica de la Estrategia de Sectorización para la Promoción de la Salud en Cogestión con la Comunid… | in force 19 April 2015 |
+| `ordenanza-regional-095-2014-cr-grh/` | Ordenanza Regional N° 095-2014-CR-GRH: Aprueban el reconocimiento y la recomposición de la Comisión Ambiental Regional CAR Huánuco
+
+. 
+
+. | in force 19 April 2015 |
+| `ordenanza-regional-096-2014-cr-grh/` | Ordenanza Regional N° 096-2014-CR-GRH: Aprueban la modificación de la conformación del Consejo Regional de la Micro y Pequeña Empresa - Huánuco, aprobado median… | in force 19 April 2015 |
+| `ordenanza-regional-092-2014-cr-grh/` | Ordenanza Regional N° 092-2014-CR-GRH: Aprueban el Reglamento de Organización y Funciones (ROF) de la Unidad de Gestión Educativa Local - UGEL HUÁNUCO | in force 19 April 2015 |
+| `ordenanza-regional-005-2015-cr-grh/` | Ordenanza Regional N° 005-2015-CR-GRH: Aprueba el Cuadro para Asignación de Personal Provisional (CAP-P) del  Hospital Regional “Hermilio Valdizán Medrano” de H… | in force 30 March 2015 |
+| `ordenanza-regional-004-2015-cr-grh/` | Ordenanza Regional N° 004-2015-CR-GRH: Aprueba el Cuadro para Asignación de Personal Provisional (CAP-P) de la Dirección Regional de Salud Huánuco del Gobierno … | in force 30 March 2015 |
+| `ordenanza-regional-059-2013-cr-grh/` | Ordenanza Regional N° 059-2013-CR-GRH: Declaran de interés regional la atención e implementación del Programa "Huánuco Accesible" | in force 17 December 2013 |
+| `ordenanza-regional-058-2013-cr-grh/` | Ordenanza Regional N° 058-2013-CR-GRH: Crean la Comisión Regional Anticorrupción de la Región Huánuco | in force 25 November 2013 |
+| `ordenanza-regional-055-2013-cr-grh/` | Ordenanza Regional N° 055-2013-CR-GRH: Aprueban el Reglamento de Organización y Funciones - ROF de la Red de Salud  Puerto Inca - Unidad Ejecutora | in force 27 September 2013 |
+| `ordenanza-regional-057-2013-cr-grh/` | Ordenanza Regional N° 057-2013-CR-GRH: Aprueban la modificación del Cuadro para Asignación de Personal - CAP  de la sede del Gobierno Regional Huánuco | in force 27 September 2013 |
+| `ordenanza-regional-052-2013-cr-grh/` | Ordenanza Regional N° 052-2013-CR-GRH: Aprueban modificación del Cuadro para Asignación de Personal (CAP) de la Unidad de Gestión Educativa Local Leoncio Prado,… | in force 21 July 2013 |
+| `ordenanza-regional-051-2013-cr-grh/` | Ordenanza Regional N° 051-2013-CR-GRH: Aprueban el Reglamento de Organización y Funciones - ROF de la Unidad de Gestión Educativa Local - UGEL Dos de Mayo - Huá… | in force 25 May 2013 |
+| `ordenanza-regional-048-2013-cr-grh/` | Ordenanza Regional N° 048-2013-CR-GRH: Modifican artículo segundo de la Ordenanza Regional N° 020-2011-CR/GRH referido a la conformación del Consejo Regional de… | in force 25 May 2013 |
+| `ordenanza-regional-050-2013-cr-grh/` | Ordenanza Regional N° 050-2013-CR-GRH: Aprueban Proceso del Plan de Trabajo y el Reglamento del Proceso de Planeamiento y Presupuesto Participativo Basado en Re… | in force 2 May 2013 |
+| `ordenanza-regional-049-2013-cr-grh/` | Ordenanza Regional N° 049-2013-CR-GRH: Crean el Registro Regional de Víctimas de Violencia Política | in force 2 May 2013 |
+| `ordenanza-regional-041-2012-cr-grh/` | Ordenanza Regional N° 041-2012-CR-GRH: Aprueban Cadenas Productivas propuestas por la Dirección Regional de Producción, para la formulación de proyectos product… | in force 2 May 2013 |
+| `ordenanza-regional-045-2012-crgrh/` | Ordenanza Regional N° 045-2012-CRGRH: Derogan las Ordenanzas Regionales N°s. 094-2010-CR/GRH y 095-2010-CR/GRH | in force 19 April 2013 |
+| `ordenanza-regional-042-2012-crgrh/` | Ordenanza Regional N° 042-2012-CRGRH: Aprueban la institucionalización de las Escuelas de Campo de Agricultores (ECAS) para las Acciones de Extensión Agraria de… | in force 28 March 2013 |
+| `ordenanza-regional-043-2012-crgrh/` | Ordenanza Regional N° 043-2012-CRGRH: Aprueba el Cuadro para Asignación de Personal (CAP) de la Red de Salud Huamalíes Unidad Ejecutora 405 | in force 28 March 2013 |
+| `ordenanza-regional-039-2012-cr-grh/` | Ordenanza Regional N° 039-2012-CR-GRH: Aprueban Reglamento de Fiscalización de las Actividades Mineras para la Pequeña Minería, Minería Artesanal y Actividades … | in force 28 March 2013 |
+| `ordenanza-regional-044-2012-crgrh/` | Ordenanza Regional N° 044-2012-CRGRH: Aprueba el Cuadro para Asignación de Personal (CAP) de la Red de Salud Dos de Mayo Unidad Ejecutora 406 | in force 28 March 2013 |
+| `ordenanza-regional-036-2012-cr-grh/` | Ordenanza Regional N° 036-2012-CR-GRH: Aprueban el Reglamento de Organización y Funciones (ROF) de la Unidad de Gestión Educativa Local - UGEL Huamalíes | in force 28 March 2013 |
+| `ordenanza-regional-047-2013-cr-grh/` | Ordenanza Regional N° 047-2013-CR-GRH: Aprueban la modificación del Reglamento de Organización y Funciones (ROF) del Gobierno Regional Huánuco | in force 28 March 2013 |
+| `ordenanza-regional-037-2012-cr-grh/` | Ordenanza Regional N° 037-2012-CR-GRH.: Incorporan procedimientos administrativos emitidos por la Dirección Regional de Agricultura al TUPA de la Sede del Gobie… | in force 24 January 2013 |
+| `ordenanza-regional-040-2012-cr-grh/` | Ordenanza Regional N° 040-2012-CR-GRH.: Incorporan procedimientos administrativos del Ministerio del Ambiente para el otorgamiento de Certificación Ambiental al… | in force 24 January 2013 |
+| `ordenanza-regional-030-2012-cr-grh/` | Ordenanza Regional N° 030-2012-CR-GRH: Aprueba la modificación del Cuadro para Asignación de Personal (CAP) de la Dirección Regional de Salud del Gobierno Regio… | in force 28 December 2012 |
+| `ordenanza-regional-035-2012-cr-grh/` | Ordenanza Regional N° 035-2012-CR/GRH: Aprueban la obligatoriedad de la Colegiatura y Habilitación Profesional para prestar servicios en la Administración Públi… | in force 1 December 2012 |
 
 ## Source
 
