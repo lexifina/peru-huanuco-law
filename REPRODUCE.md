@@ -289,20 +289,67 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-040-2012-cr-grh` | Ordenanza Regional N° 040-2012-CR-GRH.: Incorporan procedimientos administrativos del Ministerio del Ambiente para el otorgamiento de Certificación Ambiental al TUPA de la Sedel del Gobierno Regional Huánuco | 1 | 2013-01-24 to 2013-01-24 |
 | `ordenanza-regional-030-2012-cr-grh` | Ordenanza Regional N° 030-2012-CR-GRH: Aprueba la modificación del Cuadro para Asignación de Personal (CAP) de la Dirección Regional de Salud del Gobierno Regional Huánuco | 1 | 2012-12-28 to 2012-12-28 |
 | `ordenanza-regional-035-2012-cr-grh` | Ordenanza Regional N° 035-2012-CR/GRH: Aprueban la obligatoriedad de la Colegiatura y Habilitación Profesional para prestar servicios en la Administración Pública en el ámbito de la Región Huánuco | 1 | 2012-12-01 to 2012-12-01 |
+| `ordenanza-regional-032-2012-cr-grh` | Ordenanza Regional N° 032-2012-CR-GRH: Aprueban Reglamento de Organización y Funciones de la Red de Salud Huamalíes - Unidad Ejecutora 405 - Salud Huamalíes- Huánuco | 1 | 2012-12-01 to 2012-12-01 |
+| `ordenanza-regional-031-2012-cr-grh` | Ordenanza Regional N° 031-2012-CR-GRH: Aprueban Reglamento de Organización y Funciones de la Unidad de Gestión Educativa Local UGEL Puerto Inca - Huánuco | 1 | 2012-12-01 to 2012-12-01 |
+| `ordenanza-regional-033-2012-cr-grh` | Ordenanza Regional N° 033-2012-CR-GRH: Aprueban Reglamento de Organización y Funciones de la Red de Salud Dos de Mayo - Unidad Ejecutora 406 - Salud Dos de Mayo - Huánuco | 1 | 2012-12-01 to 2012-12-01 |
+| `ordenanza-regional-029-2012-cr-grh` | Ordenanza Regional N° 029-2012-CR-GRH.: Aprueban el Reglamento de Organización y Funciones (ROF) de la Unidad de Gestión Educativa Local - UGEL Pachitea | 1 | 2012-10-25 to 2012-10-25 |
+| `ordenanza-regional-022-2012-cr-grh` | Ordenanza Regional N° 022-2012-CR/GRH: Aprueban Acuerdo de Gobernabilidad Regional a través de la Concertación de Metas para la Reducción de la Pobreza 2011 - 2014 | 1 | 2012-08-30 to 2012-08-30 |
+| `ordenanza-regional-021-2012-cr-grh` | Ordenanza Regional N° 021-2012-CR/GRH: Declaran la intangibilidad de terrenos destinados al Proyecto "Parque Industrial Tingo María en la Amazonía Peruana" | 1 | 2012-07-07 to 2012-07-07 |
+| `ordenanza-regional-026-2012-cr-grh` | Ordenanza Regional N° 026-2012-CR-GRH: Aprueban Reglamento de Organización y Funciones de la Unidad de Gestión Educativa Local UGEL Leoncio Prado | 1 | 2012-06-23 to 2012-06-23 |
+| `ordenanza-regional-024-2012-cr-grh` | Ordenanza Regional N° 024-2012-CR/GRH: Modifican la Ordenanza N° 092-2012-CR-GRH | 1 | 2012-06-23 to 2012-06-23 |
+| `ordenanza-regional-023-2012-cr-grh` | Ordenanza Regional N° 023-2012-CR/GRH: Aprueban el Plan de Trabajo y el Reglamento del Proceso de Planeamiento y Presupuesto Participativo 2013 del Gobierno Regional Huánuco | 1 | 2012-06-23 to 2012-06-23 |
+| `ordenanza-regional-083-2010-cr-grh` | Ordenanza Regional N° 083-2010-CR-GRH: Declaran al Ave Korekenke como Ave Representativa de la Región Huánuco | 1 | 2012-03-03 to 2012-03-03 |
+| `ordenanza-regional-020-2011-crgrh` | Ordenanza Regional N° 020-2011-CRGRH: Crean el Consejo Regional de Fomento Artesanal de Huánuco | 1 | 2012-02-28 to 2012-02-28 |
+| `ordenanza-regional-019-2011-cr-grh` | Ordenanza Regional N° 019-2011-CR-GRH: Prohiben la quema de bosques naturales y plantaciones forestales en la Región Huánuco | 1 | 2012-02-28 to 2012-02-28 |
+| `ordenanza-regional-017-2011-crgrh` | Ordenanza Regional N° 017-2011-CRGRH: Declaran de interés Regional la Prevención y Lucha Contra la Trata de Personas en la Región | 1 | 2012-02-28 to 2012-02-28 |
+| `ordenanza-regional-018-2011-crgrh` | Ordenanza Regional N° 018-2011-CRGRH: Designan el 19 de Noviembre como el Día Mundial para la Prevención del Abuso Infantil en la Región | 1 | 2012-02-28 to 2012-02-28 |
+| `ordenanza-regional-016-2011-crgrh` | Ordenanza Regional N° 016-2011-CRGRH: Aprueban modificación del Cuadro para Asignación de Personal (CAP) del Hospital de Tingo María | 1 | 2011-12-22 to 2011-12-22 |
+| `ordenanza-regional-015-2011-crgrh` | Ordenanza Regional N° 015-2011-CRGRH: Aprueban modificación del Cuadro para Asignación de Personal (CAP) del Hospital Regional "Hermilio Valdizán Medrano" - Huánuco | 1 | 2011-12-21 to 2011-12-21 |
+| `ordenanza-regional-010-2011-cr-grh` | Ordenanza Regional N° 010-2011-CR-GRH: Instauran el 14 de setiembre como el Día de la Identidad Huanuqueña | 1 | 2011-11-27 to 2011-11-27 |
+| `ordenanza-regional-079-2009-cr-grh` | Ordenanza Regional N° 079-2009-CR-GRH: Aprueban el Plan Regional de Cooperación Internacional No Reembolsable 2009 - 2013 | 1 | 2011-10-29 to 2011-10-29 |
+| `ordenanza-regional-007-2011-cr-grh` | Ordenanza Regional N° 007-2011-CR-GRH: Rectifican denominación de la Ordenanza N° 079-2009-CR-GRH. | 1 | 2011-10-29 to 2011-10-29 |
+| `ordenanza-regional-011-2011-cr-grh` | Ordenanza Regional N° 011-2011-CR-GRH: Aprueban el Reglamento Regional de Administración de Transporte de Personas de la Región Huánuco, en vehículos de la Categoría M2 y M3 | 1 | 2011-10-24 to 2011-10-24 |
+| `ordenanza-regional-012-2011-cr-grh` | Ordenanza Regional N° 012-2011-CR-GRH: Aprueban la formalización del servicio regional de transporte terrestre de pasajeros en automóviles colectivos con vehículos 
+M-1 Huánuco | 1 | 2011-10-24 to 2011-10-24 |
+| `ordenanza-regional-009-2011-cr-grh` | Ordenanza Regional N° 009-2011-CR-GRH: Aprueban la pesca artesanal en las cuencas del Bajo Pachitea, distrito de Honoria, provincia de Puerto Inca | 1 | 2011-10-21 to 2011-10-21 |
+| `ordenanza-regional-013-2011-cr-grh` | Ordenanza Regional N° 013-2011-CR/GRH: Aprueban la creación de la Autoridad Regional Ambiental | 1 | 2011-10-17 to 2011-10-17 |
+| `ordenanza-regional-003-2011-cr-grh` | Ordenanza Regional N° 003-2011-CR-GRH: Aprueban modificación del Reglamento de Organización y Funciones (ROF) de la Dirección Regional de Trabajo y Promoción del Empleo Huánuco del Gobierno Regional Huánuco | 1 | 2011-10-01 to 2011-10-01 |
+| `ordenanza-regional-006-2011-cr-grh` | Ordenanza Regional N° 006-2011-CR-GRH: Aprueban Reglamento de Organización y Funciones (ROF) de la Dirección Regional de Comercio Exterior y Turismo del Gobierno Regional Huánuco | 1 | 2011-10-01 to 2011-10-01 |
+| `ordenanza-regional-005-2011-cr-grh` | Ordenanza Regional N° 005-2011-CR-GRH: Aprueban Reglamento de Organización y Funciones (ROF) de la Dirección Regional de Energía, Minas e Hidrocarburos del Gobierno Regional Huánuco | 1 | 2011-10-01 to 2011-10-01 |
+| `ordenanza-regional-008-2011-cr-grh` | Ordenanza Regional N° 008-2011-CR-GRH: Aprueban proceso de zonificación ecológica y económica para el ordenamiento territorial de la Región Huánuco | 1 | 2011-09-30 to 2011-09-30 |
+| `ordenanza-regional-004-2011-cr-grh` | Ordenanza Regional N° 004-2011-CR-GRH: Aprueban modificación del Cuadro para Asignación de Personal (CAP) de la Dirección Regional de Agricultura Gobierno Regional Huánuco | 1 | 2011-06-24 to 2011-06-24 |
+| `ordenanza-regional-001-2011-cr-grh` | Ordenanza Regional N° 001-2011-CR-GRH: Declaran de necesidad pública y de interés regional la construcción de la infraestructura del Museo de Sitio en la explanada de Huánuco Pampa y declaran en emergencia a sitio arqueológico | 1 | 2011-06-02 to 2011-06-02 |
+| `ordenanza-regional-093-2010-cr-grh` | Ordenanza Regional N° 093-2010-CR/GRH: Aprueban Reglamento de Organización y Funciones (ROF) de la Dirección Regional de Vivienda, Construcción y Saneamiento, Órgano Desconcentrado del Gobierno Regional Huánuco | 1 | 2010-12-30 to 2010-12-30 |
+| `ordenanza-regional-104-2010-cr-grh` | Ordenanza Regional N° 104-2010-CR-GRH: Aprueban modificación del Cuadro para Asignación de Personal (CAP) de la Sede del Gobierno Regional  Huánuco | 1 | 2010-12-30 to 2010-12-30 |
+| `ordenanza-regional-106-2010-cr-grh` | Ordenanza Regional N° 106-2010-CR-GRH: Aprueban modificación del Cuadro para Asignación de Personal (CAP) de la Dirección Regional de Salud de Huánuco | 1 | 2010-12-25 to 2010-12-25 |
+| `ordenanza-regional-105-2010-cr-grh` | Ordenanza Regional N° 105-2010-CR-GRH: Aprueban Reglamento de Organización y Funciones (ROF) de la Dirección Regional de Salud de Huánuco | 1 | 2010-12-25 to 2010-12-25 |
+| `ordenanza-regional-096-2010-crgrh` | Ordenanza Regional N° 096-2010-CRGRH: Aprueban modificación del Cuadro para Asignación de Personal (CAP) del Hospital Regional Hermilio Valdizán Medrano de Huánuco | 1 | 2010-09-05 to 2010-09-05 |
+| `ordenanza-regional-065-2009-cr-gr-grh` | Ordenanza Regional N° 065-2009-CR-GR-GRH: Modifican Cuadro de Asignación de Personal de la Red de Salud de Huánuco 2004 | 1 | 2010-04-30 to 2010-04-30 |
+| `ordenanza-regional-082-2010-cr-grh` | Ordenanza Regional N° 082-2010-CR-GRH: Reconocen al "Sistema de Garantía Participativo" como alternativa viable y económica para garantizar la producción ecológica de pequeños productores en el ámbito de la Región Huánuco | 1 | 2010-02-05 to 2010-02-05 |
+| `ordenanza-regional-066-2009-cr-grh` | Ordenanza Regional N° 066-2009-CR-GRH: Aprueban modificación del Cuadro para Asignación de Personal de la Sede del Gobierno Regional Huánuco | 1 | 2009-12-31 to 2009-12-31 |
+| `ordenanza-regional-077-2009-cr-grh` | Ordenanza Regional N° 077-2009-CR/GRH: Aprueban modificación del Cuadro para Asignación de Personal del Hospital de Tingo María | 1 | 2009-12-31 to 2009-12-31 |
+| `ordenanza-regional-072-2009-cr-grh` | Ordenanza Regional N° 072-2009-CR-GRH: Aprueban el Plan de Desarrollo Regional Concertado 2009 - 2021 (Reformulado) de la Región Huánuco | 1 | 2009-12-25 to 2009-12-25 |
+| `ordenanza-regional-070-2009-cr-grh` | Ordenanza Regional N° 070-2009-CR-GRH: Modifican el Texto Único de Procedimientos Administrativos (TUPA) de la Sede Central del Gobierno Regional Huánuco | 1 | 2009-12-25 to 2009-12-25 |
+| `ordenanza-regional-068-2009-cr-grh` | Ordenanza Regional N° 068-2009-CR-GRH: Modifican el TUPA del Hospital Regional Hermilio Valdizán Medrano de Huánuco | 1 | 2009-12-25 to 2009-12-25 |
+| `ordenanza-regional-067-2009-cr-grh` | Ordenanza Regional N° 067-2009-CR-GRH: Modifican el Texto Único de Procedimientos Administrativos (TUPA) de la Dirección Regional de Trabajo y Promoción del Empleo | 1 | 2009-12-25 to 2009-12-25 |
+| `ordenanza-regional-069-2009-cr-grh` | Ordenanza Regional N° 069-2009-CR-GRH: Modifican el Texto Único de Procedimientos Administrativos (TUPA) de la Dirección Regional de Energía, Minas e Hidrocarburos | 1 | 2009-12-25 to 2009-12-25 |
+| `ordenanza-regional-073-2009-cr-grh` | Ordenanza Regional N° 073-2009-CR/GRH: Aprueban modificación del Cuadro para Asignación de Personal de la Red de Salud de Leoncio Prado | 1 | 2009-11-26 to 2009-11-26 |
+| `ordenanza-regional-058-2009-cr-grh` | Ordenanza Regional N° 058-2009-CR-GRH: Aprueban modificación del Reglamento de Organización y Funciones (ROF) del Gobierno Regional Huánuco | 1 | 2009-05-14 to 2009-05-14 |
+| `ordenanza-regional-057-2009-cr-grh` | Ordenanza Regional N° 057-2009-CR-GRH: Declaran de interés prioritario regional la prevención, atención y protección frente al hostigamiento sexual | 1 | 2009-05-09 to 2009-05-09 |
 
-The build made 260 commits:
+The build made 306 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 260 | first version of an act |
+| 306 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 260 laws in the record.
-- 520 tags.
+- 306 laws in the record.
+- 612 tags.
 
 ## Dates
 
@@ -314,7 +361,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `b6cb638b93634ba73220abf3105692584878425fef3b7e86feae248feae67c2c` (3686621 bytes).
+- Corpus: sha256 `644f3c3bf734d4823e0a3e1b9ea0c48fc4fbe9527f85bdb796bcee032be2f29d` (4154020 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
