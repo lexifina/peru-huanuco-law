@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-306 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+307 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -328,6 +328,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-073-2009-cr-grh/` | Ordenanza Regional N° 073-2009-CR/GRH: Aprueban modificación del Cuadro para Asignación de Personal de la Red de Salud de Leoncio Prado | in force 26 November 2009 |
 | `ordenanza-regional-058-2009-cr-grh/` | Ordenanza Regional N° 058-2009-CR-GRH: Aprueban modificación del Reglamento de Organización y Funciones (ROF) del Gobierno Regional Huánuco | in force 14 May 2009 |
 | `ordenanza-regional-057-2009-cr-grh/` | Ordenanza Regional N° 057-2009-CR-GRH: Declaran de interés prioritario regional la prevención, atención y protección frente al hostigamiento sexual | in force 9 May 2009 |
+| `ordenanza-regional-060-2026-grh-cr/` | Ordenanza Regional N° 060-2026-GRH-CR: Declaran de interés cultural regional la difusión y posicionamiento del origen huanuqueño de la melodía “El Cóndor Pasa” … | in force 5 November 2026 |
 
 ## Source
 

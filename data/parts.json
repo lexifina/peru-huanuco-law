@@ -365,6 +365,12 @@
     "ordenanza-regional-106-2010-cr-grh"
    ],
    "sha256": "a345a58f71828dacbf5a62aa56c3a26610ebead7e8d6eef6d3ae144cc217f966"
+  },
+  "33-runner-06.json": {
+   "acts": [
+    "ordenanza-regional-060-2026-grh-cr"
+   ],
+   "sha256": "ad7bcb1b8d503d32f68df0b8346a91116427a084b4d5b51c30d43df9d5b29051"
   }
  },
  "schema": 1

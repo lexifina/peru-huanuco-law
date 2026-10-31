@@ -4284,6 +4284,20 @@
      "sha256": "de6c1afb021a1ebc0122b726d23ed814d6ae730d786206fa49e1e2d6519d7b8b"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-regional-060-2026-grh-cr",
+   "short": "Ordenanza Regional N° 060-2026-GRH-CR",
+   "title": "Ordenanza Regional N° 060-2026-GRH-CR: Declaran de interés cultural regional la difusión y posicionamiento del origen huanuqueño de la melodía “El Cóndor Pasa” a nivel regional, nacional e internacional, como parte del Patrimonio Cultural de la Nación",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2571044-1",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/ClPKoYQJq5m8OgazDK3NsA/*/2571044-1.PDF",
+     "sha256": "b392ca2dbb3dd1b4263017afb7b6022ec9b024665b2ba2cb30a5e098b594bb32"
+    }
+   ]
   }
  ]
 }

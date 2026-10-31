@@ -336,6 +336,7 @@ M-1 Huánuco | 1 | 2011-10-24 to 2011-10-24 |
 | `ordenanza-regional-073-2009-cr-grh` | Ordenanza Regional N° 073-2009-CR/GRH: Aprueban modificación del Cuadro para Asignación de Personal de la Red de Salud de Leoncio Prado | 1 | 2009-11-26 to 2009-11-26 |
 | `ordenanza-regional-058-2009-cr-grh` | Ordenanza Regional N° 058-2009-CR-GRH: Aprueban modificación del Reglamento de Organización y Funciones (ROF) del Gobierno Regional Huánuco | 1 | 2009-05-14 to 2009-05-14 |
 | `ordenanza-regional-057-2009-cr-grh` | Ordenanza Regional N° 057-2009-CR-GRH: Declaran de interés prioritario regional la prevención, atención y protección frente al hostigamiento sexual | 1 | 2009-05-09 to 2009-05-09 |
+| `ordenanza-regional-060-2026-grh-cr` | Ordenanza Regional N° 060-2026-GRH-CR: Declaran de interés cultural regional la difusión y posicionamiento del origen huanuqueño de la melodía “El Cóndor Pasa” a nivel regional, nacional e internacional, como parte del Patrimonio Cultural de la Nación | 1 | 2026-11-05 to 2026-11-05 |
 
 The build made 306 commits:
 
@@ -348,7 +349,7 @@ The build made 306 commits:
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 306 laws in the record.
+- 307 laws in the record.
 - 612 tags.
 
 ## Dates
@@ -361,7 +362,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `644f3c3bf734d4823e0a3e1b9ea0c48fc4fbe9527f85bdb796bcee032be2f29d` (4154020 bytes).
+- Corpus: sha256 `dbb8274dca348342cd8abc2aee19309ac5123e864b8961684926e3e9fc9ca8d4` (4170858 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
