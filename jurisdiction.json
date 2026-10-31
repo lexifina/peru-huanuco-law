@@ -1,0 +1,11 @@
+{
+  "path": "pe-huc",
+  "code": "PE-HUC",
+  "name": "Huánuco",
+  "level": "region",
+  "parent": "pe",
+  "repo": "https://github.com/lexifina/peru-huanuco-law",
+  "build": "built: 193 ordinances as published in El Peruano",
+  "language": "es",
+  "sources": 1
+}

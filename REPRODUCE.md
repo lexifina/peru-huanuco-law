@@ -1,0 +1,268 @@
+# How this repository was made (Huánuco)
+
+This file is written by the build on 2026-10-31, the day the source data was retrieved.
+
+## Sources
+
+| Source | Address | Retrieved | Licence |
+| --- | --- | --- | --- |
+| Diario Oficial El Peruano, Normas Legales (Empresa Peruana de Servicios Editoriales S.A. - Editora Perú) | <https://busquedas.elperuano.pe> | 2026-10-31 | Official texts of a legislative nature: not protected by copyright in Peru (Decreto Legislativo 822, Ley sobre el Derecho de Autor, art. 9 b: "Artículo 9.- No son objeto de protección por el derecho de autor: [...] b. Los textos oficiales de carácter legislativo, administrativo o judicial, ni las traducciones oficiales de los mismos, sin perjuicio de la obligación de respetar los textos y citar la fuente."). The source states no restriction on reuse. Reproduced with attribution, respecting the text. |
+
+Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
+
+## What is in it
+
+| Act | Title | Versions | Span |
+| --- | --- | ---: | --- |
+| `ordenanza-regional-059-2026-grh-cr` | Ordenanza Regional N° 059-2026-GRH-CR: Aprueban los Instrumentos de Mapa de Ecosistemas y Mapa de Áreas Degradadas en Ecosistemas Terrestres del Departamento de Huánuco | 1 | 2026-07-17 to 2026-07-17 |
+| `ordenanza-regional-057-2026-grh-cr` | Ordenanza Regional N° 057-2026-GRH-CR: Aprueban Proceso de Implementación del Sistema Regional de Gestión Ambiental del Gobierno Regional Huánuco y la Hoja de Ruta para su implementación | 1 | 2026-07-05 to 2026-07-05 |
+| `ordenanza-regional-056-2026-grh-cr` | Ordenanza Regional N° 056-2026-GRH-CR: Ordenanza Regional que aprueba la adecuación de la Comisión Ambiental Regional – CAR HUÁNUCO al Decreto Supremo N° 014-2024-MINAM que aprueba el Reglamento de la Ley N° 28245, Ley Marco del Sistema Nacional de Gestión Ambiental | 1 | 2026-05-15 to 2026-05-15 |
+| `ordenanza-regional-054-2026-grh-cr` | Ordenanza Regional N° 054-2026-GRH-CR: Aprueban Programa Regional de Educación, Cultura y Ciudadanía Ambiental de la Región Huánuco (Programa Regional EDUCA HUÁNUCO) | 1 | 2026-03-23 to 2026-03-23 |
+| `ordenanza-regional-053-2025-grh-cr` | Ordenanza Regional N° 053-2025-GRH-CR: Modifican la Ordenanza Regional N° 038-2015-CR-GRH, a fin de formarse el Consejo Consultivo y Participativo de Niñas, Niños y Adolescentes de la Región Huánuco – CCONNA | 1 | 2026-02-03 to 2026-02-03 |
+| `ordenanza-regional-052-2025-grh-cr` | Ordenanza Regional N° 052-2025-GRH-CR: Ordenanza Regional que aprueba el Reglamento para el Desarrollo del Proceso del Presupuesto Participativo Basado en Resultados 2027 del Gobierno Regional Huánuco | 1 | 2026-01-22 to 2026-01-22 |
+| `ordenanza-regional-049-2025-grh-cr` | Ordenanza Regional N° 049-2025-GRH-CR: Aprueban la creación del “Registro Regional de las personas con discapacidad del Gobierno Regional Huánuco” | 1 | 2025-11-02 to 2025-11-02 |
+| `ordenanza-regional-048-2025-grh-cr` | Ordenanza Regional N° 048-2025-GRH-CR: Aprueban creación de la “Mesa Regional de Huánuco para la protección de las personas defensoras de derechos humanos” | 1 | 2025-10-18 to 2025-10-18 |
+| `ordenanza-regional-045-2025-grh-cr` | Ordenanza Regional N° 045-2025-GRH-CR: Aprueban la creación del Consejo Regional de Participación de la Juventud de Huánuco - COREJU HUÁNUCO | 1 | 2025-06-26 to 2025-06-26 |
+| `ordenanza-regional-044-2025-grh-cr` | Ordenanza Regional N° 044-2025-GRH-CR: Aprueban el Proyecto Educativo Regional – Huánuco al 2036 | 1 | 2025-05-11 to 2025-05-11 |
+| `ordenanza-regional-043-2025-grh-cr` | Ordenanza Regional N° 043-2025-GRH-CR: Ordenanza que aprueba el Cuadro para Asignación de Personal Provisional (CAP-P) de la Unidad Ejecutora N° 001 Sede Huánuco del Pliego 448, Gobierno Regional Huánuco | 1 | 2025-04-16 to 2025-04-16 |
+| `ordenanza-regional-039-2024-grh-cr` | Ordenanza Regional N° 039-2024-GRH-CR: Ordenanza Regional que reconoce y conforma la Mesa Técnica del Bambú de la Región Huánuco | 1 | 2024-12-22 to 2024-12-22 |
+| `ordenanza-regional-038-2024-grh-cr` | Ordenanza Regional N° 038-2024-GRH-CR: Aprueban la Agenda Regional Agraria periodo 2024-2027 | 1 | 2024-12-22 to 2024-12-22 |
+| `ordenanza-regional-036-2024-grh-cr` | Ordenanza Regional N° 036-2024-GRH-CR: Declaran de interés y prioridad regional el reconocimiento de Aparicio Pomares Hilario como Héroe Nacional de la Guerra del Pacifico. | 1 | 2024-12-22 to 2024-12-22 |
+| `ordenanza-regional-033-2024-grh-cr` | Ordenanza Regional N° 033-2024-GRH-CR: Modifican la Ordenanza Regional N° 17-2011-CRGRH, que declara de Interés Regional la Prevención y Lucha Contra la Trata de Personas en la Región Huánuco | 1 | 2024-12-13 to 2024-12-13 |
+| `ordenanza-regional-035-2024-grh-cr` | Ordenanza Regional N° 035-2024-GRH-CR: Ordenanza Regional que declara de Interés Turístico Regional la Festividad de los Negritos de Huánuco en Honor al Niño Jesús de la Región Huánuco e institucionalizan el Festival de los Negritos de Huánuco como la Navidad más Grande del Mundo | 1 | 2024-12-06 to 2024-12-06 |
+| `ordenanza-regional-034-2024-grh-cr` | Ordenanza Regional N° 034-2024-GRH-CR: Ordenanza Regional que crea el Observatorio Regional de Seguridad Ciudadana | 1 | 2024-12-06 to 2024-12-06 |
+| `ordenanza-regional-032-2024-grh-cr` | Ordenanza Regional N° 032-2024-GRH-CR: Ordenanza Regional que declara y reconoce de interés y necesidad social la atención de las prioridades sanitarias regionales | 1 | 2024-11-24 to 2024-11-24 |
+| `ordenanza-regional-030-2024-grh-cr` | Ordenanza Regional N° 030-2024-GRH-CR: Declaran de Interés Regional y Necesidad Pública, la semana de la Educación Intercultural Bilingüe en el departamento de Huánuco, la misma que se desarrollará la última semana de noviembre de cada año | 1 | 2024-08-23 to 2024-08-23 |
+| `ordenanza-regional-028-2024-grh-cr` | Ordenanza Regional N° 028-2024-GRH-CR: Declaran el “Día Regional de la Lucha contra la Corrupción en Huánuco”, el 23 de agosto de cada año | 1 | 2024-08-08 to 2024-08-08 |
+| `ordenanza-regional-027-2024-grh-cr` | Ordenanza Regional N° 027-2024-GRH-CR: Ordenanza Regional que aprueba el Plan Maestro del Área de Conservación Regional “Codo del Pozuzo 2023 – 2028” | 1 | 2024-02-15 to 2024-02-15 |
+| `ordenanza-regional-026-2024-grh-cr` | Ordenanza Regional N° 026-2024-GRH-CR: Ordenanza Regional que crea la Plataforma Regional Digital del Directorio de las Comunidades Campesinas y Nativas del departamento de Huánuco | 1 | 2024-02-15 to 2024-02-15 |
+| `ordenanza-regional-024-2024-grh-cr` | Ordenanza Regional N° 024-2024-GRH-CR: Declaran de Interés Público Regional el Saneamiento Físico Legal de los Territorios de las Comunidades Nativas de la provincia de Puerto Inca, departamento de Huánuco | 1 | 2024-02-15 to 2024-02-15 |
+| `ordenanza-regional-023-2023-grh-cr` | Ordenanza Regional N° 023-2023-GRH-CR: Aprueban la Estrategia Regional de Cambio Climático de Huánuco 2023-2050 | 1 | 2024-02-04 to 2024-02-04 |
+| `ordenanza-regional-022-2023-grh-cr` | Ordenanza Regional N° 022-2023-GRH-CR: Declaran de Necesidad e Interés Público Regional la Conservación y Protección de las Fajas Marginales de los ríos del departamento de Huánuco | 1 | 2024-02-04 to 2024-02-04 |
+| `ordenanza-regional-021-2023-grh-cr` | Ordenanza Regional N° 021-2023-GRH-CR: Aprueban el “Plan de Acción Regional de Seguridad Ciudadana (PARSC) 2024 - 2027” | 1 | 2024-02-04 to 2024-02-04 |
+| `ordenanza-regional-019-2023-grh-cr` | Ordenanza Regional N° 019-2023-GRH-CR: Declaran Feriado no Laborable, el día 27 de julio de cada año, en el ámbito de todo el departamento de Huánuco, por la Escenificación de la Fiesta del Sol en las Pampas de Huánuco Viejo, distrito de La Unión, provincia de Dos de Mayo | 1 | 2023-12-02 to 2023-12-02 |
+| `ordenanza-regional-016-2023-grh-cr` | Ordenanza Regional N° 016-2023-GRH-CR: Ordenanza que declara al distrito de Honoria de la provincia de Puerto Inca como la Capital del Maíz Amarillo Duro en el departamento de Huánuco | 1 | 2023-11-19 to 2023-11-19 |
+| `ordenanza-regional-015-2023-grh-cr` | Ordenanza Regional N° 015-2023-GRH-CR: Aprueban la Promoción de la Incorporación del Enfoque Intercultural; el Uso, Preservación, Desarrollo, Recuperación, Fomento y Difusión de las Lenguas Indígenas u Originarias; así como la  Promoción de la Diversidad Cultural para la Prevención y Sanción del Rac | 1 | 2023-11-09 to 2023-11-09 |
+| `ordenanza-regional-014-2023-grh-cr` | Ordenanza Regional N° 014-2023-GRH-CR: Aprueban  la Política Regional para la Generación de Empleo Temporal Social Inclusivo “Chamba para Todos” | 1 | 2023-11-05 to 2023-11-05 |
+| `ordenanza-regional-011-2023-grh-cr` | Ordenanza Regional N° 011-2023-GRH-CR: Ordenanza que aprueba la creación del Observatorio Regional de Violencia contra las Mujeres e Integrantes del Grupo Familiar del departamento de Huánuco | 1 | 2023-09-29 to 2023-09-29 |
+| `ordenanza-regional-010-2023-grh-cr` | Ordenanza Regional N° 010-2023-GRH-CR: Ordenanza que crea el Consejo Regional de Ciencia, Tecnología e Innovación de Huánuco (CORCITEI HUÁNUCO) | 1 | 2023-08-06 to 2023-08-06 |
+| `ordenanza-regional-037-2024-grh-cr` | Ordenanza Regional N° 037-2024-GRH-CR: Ordenanza Regional que reconoce al Consejo Regional del Sistema de Garantía Participativo – Huánuco | 1 | 2024-12-22 to 2024-12-22 |
+| `ordenanza-regional-012-2023-grh-cr` | Ordenanza Regional N° 012-2023-GRH-CR: Ordenanza que crea el Comité Consultivo Regional de Turismo de Huánuco (CCRT HUÁNUCO) | 1 | 2023-09-29 to 2023-09-29 |
+| `ordenanza-regional-009-2023-grh-cr` | Ordenanza Regional N° 009-2023-GRH-CR: Declaran de Interés Público Regional la Instalación e Implementación de Viveros para la Producción de Plantas Ornamentales, Forestales, Nativas, Madereros y Frutícolas en el departamento de Huánuco | 1 | 2023-07-13 to 2023-07-13 |
+| `ordenanza-regional-008-2023-grh-cr` | Ordenanza Regional N° 008-2023-GRH-CR: Declaran en Situación de Emergencia el Sector Educación en el departamento de Huánuco | 1 | 2023-07-10 to 2023-07-10 |
+| `ordenanza-regional-007-2023-grh-cr` | Ordenanza Regional N° 007-2023-GRH-CR: Ordenanza Regional que declara de Interés y Prioridad Regional el Sistema de Autoridad Ancestral “Campo Varayo” de las provincias de Lauricocha, Dos de Mayo, Huamalíes, Yarowilca, Ambo, Huacaybamba y Marañón del departamento de Huánuco | 1 | 2023-06-15 to 2023-06-15 |
+| `ordenanza-regional-006-2023-grh-cr` | Ordenanza Regional N° 006-2023-GRH-CR: Ordenanza Regional que aprueba la Política Regional Multisectorial para la Promoción de la Salud al 2030, “Salud en todas las Políticas” | 1 | 2023-06-15 to 2023-06-15 |
+| `ordenanza-regional-004-2023-grh-cr` | Ordenanza Regional N° 004-2023-GRH-CR: Exoneran el pago por derecho de trámite de los procedimientos administrativos para la categorización o recategorización de los establecimientos de salud de origen público | 1 | 2023-05-25 to 2023-05-25 |
+| `ordenanza-regional-003-2023-grh-cr` | Ordenanza Regional N° 003-2023-GRH-CR: Ratifican el “Acuerdo de Gobernabilidad Regional Concertado Huánuco 2023 - 2026” | 1 | 2023-05-25 to 2023-05-25 |
+| `ordenanza-regional-002-2023-grh-cr` | Ordenanza Regional N° 002-2023-GRH-CR: Declaran de interés público y prioridad regional la creación y construcción de Hospitales de Nivel II-1 en la capital de cada provincia del departamento de Huánuco | 1 | 2023-04-13 to 2023-04-13 |
+| `ordenanza-regional-001-2023-grh-cr` | Ordenanza Regional N° 001-2023-GRH-CR: Aprueban la Estrategia Regional de Desarrollo Rural Bajo en Emisiones del departamento de Huánuco al 2030 (ERDRBE Huánuco 2030) | 1 | 2023-02-20 to 2023-02-20 |
+| `ordenanza-regional-098-2022-grh-cr` | Ordenanza Regional N° 098-2022-GRH-CR: Ordenanza que aprueba la creación e integración de la Mesa Regional de Control y de Vigilancia Forestal y Fauna Silvestre de la Región Huánuco (MRCVFFS HUÁNUCO) | 1 | 2023-02-16 to 2023-02-16 |
+| `ordenanza-regional-100-2022-grh-cr` | Ordenanza Regional N° 100-2022-GRH-CR: Ordenanza que aprueba la creación de la Agencia Regional de Desarrollo Huánuco | 1 | 2023-02-16 to 2023-02-16 |
+| `ordenanza-regional-099-2022-grh-cr` | Ordenanza Regional N° 099-2022-GRH-CR: Ordenanza que declara de interés y prioridad regional la necesidad de coberturar el servicio de internet a todas las instituciones educativas y establecimientos de salud del Gobierno Regional Huánuco | 1 | 2023-02-16 to 2023-02-16 |
+| `ordenanza-regional-097-2022-grh-cr` | Ordenanza Regional N° 097-2022-GRH-CR: Declaran de Interés Regional la Actualización de la Estrategia Regional de Cambio Climático de la Región Huánuco | 1 | 2022-12-26 to 2022-12-26 |
+| `ordenanza-regional-096-2022-grh-cr` | Ordenanza Regional N° 096-2022-GRH-CR: Declaran de Interés Regional la Implementación de la Estrategia Regional de Desarrollo Rural Bajo en Emisiones (ERDRBE) Huánuco al 2030 | 1 | 2022-12-26 to 2022-12-26 |
+| `ordenanza-regional-095-2022-grh-cr` | Ordenanza Regional N° 095-2022-GRH-CR: Declaran de Necesidad Pública Regional el Equipamiento e Implementación de las Compañías del Cuerpo General de Bomberos Voluntarios del Perú, con sede en la región Huánuco | 1 | 2022-12-26 to 2022-12-26 |
+| `ordenanza-regional-094-2022-grh-cr` | Ordenanza Regional N° 094-2022-GRH-CR: Declaran de interés regional y necesidad pública, la creación del “Distrito de MACUYA”, en la provincia de Puerto Inca, departamento de Huánuco | 1 | 2022-12-26 to 2022-12-26 |
+| `ordenanza-regional-093-2022-grh-cr` | Ordenanza Regional N° 093-2022-GRH/CR: Declaran de interés y prioridad regional, la propuesta de establecimiento del Área de Conservación Regional Yanajanca | 1 | 2022-12-26 to 2022-12-26 |
+| `ordenanza-regional-092-2022-grh-cr` | Ordenanza Regional N° 092-2022-GRH-CR: Aprueban el Reglamento para el Desarrollo del Proceso del Presupuesto Participativo Basado en Resultados 2024 del Gobierno Regional Huánuco | 1 | 2022-11-27 to 2022-11-27 |
+| `ordenanza-regional-091-2022-grh-cr` | Ordenanza Regional N° 091-2022-GRH-CR: Aprueban el “Plan de Acción Regional de Seguridad Ciudadana (PARSC) 2023” | 1 | 2022-11-27 to 2022-11-27 |
+| `ordenanza-regional-090-2022-grh-cr` | Ordenanza Regional N° 090-2022-GRH-CR: Declaran de interés y prioridad regional, la propuesta de establecimiento del Área de Conservación Regional San Pedro de Chonta | 1 | 2022-11-27 to 2022-11-27 |
+| `ordenanza-regional-088-2022-grh-cr` | Ordenanza Regional N° 088-2022-GRH-CR: Declaran de interés y prioridad regional la Implementación Progresiva de la Metodología BIM - Building Information Modeling (Modelamiento de la Información para Construcción), en los Proyectos de Inversión Pública que Desarrolle el Gobierno Regional Huánuco | 1 | 2022-11-24 to 2022-11-24 |
+| `ordenanza-regional-087-2022-gra-cr` | Ordenanza Regional N° 087-2022-GRA-CR: Modifican la Ordenanza Regional Nº 080-2022-GRH-CR, que aprueba la creación de la Comisión Regional Anticorrupción de Huánuco | 1 | 2022-11-18 to 2022-11-18 |
+| `ordenanza-regional-086-2022-grh-cr` | Ordenanza Regional N° 086-2022-GRH-CR: Ordenanza Regional que aprueba el Plan de Desarrollo Regional Concertado Huánuco al 2033 | 1 | 2022-11-18 to 2022-11-18 |
+| `ordenanza-regional-085-2022-grh-cr` | Ordenanza Regional N° 085-2022-GRH-CR: Ordenanza Regional que aprueba la ampliación excepcional del horizonte temporal del Plan de Desarrollo Regional Concertado del departamento de Huánuco hasta el 2022 | 1 | 2022-11-18 to 2022-11-18 |
+| `ordenanza-regional-083-2022-grh-cr` | Ordenanza Regional N° 083-2022-GRH-CR: Aprueban el “Plan de Acción Regional de Seguridad Ciudadana 2022” | 1 | 2022-08-27 to 2022-08-27 |
+| `ordenanza-regional-082-2022-grh-cr` | Ordenanza Regional N° 082-2022-GRH-CR: Ordenanza Regional que aprueba la constitución de la Comisión Técnica Regional de Zonificación Ecológica y Económica del departamento de Huánuco | 1 | 2022-08-08 to 2022-08-08 |
+| `ordenanza-regional-081-2022-grh-cr` | Ordenanza Regional N° 081-2022-GRH-CR: Ordenanza Regional que declara de necesidad pública e interés prioritario la adquisición de terreno para una escombrera | 1 | 2022-08-08 to 2022-08-08 |
+| `ordenanza-regional-080-2022-grh-cr` | Ordenanza Regional N° 080-2022-GRH-CR: Ordenanza Regional que aprueba la creación de la Comisión Regional Anticorrupción de Huánuco | 1 | 2022-08-08 to 2022-08-08 |
+| `ordenanza-regional-072-2021-grh-cr` | Ordenanza Regional N° 072-2021-GRH-CR: Aprueban el Cuadro para Asignación de Personal Provisional (CAP-P) del Gobierno Regional de Huánuco | 1 | 2022-01-02 to 2022-01-02 |
+| `ordenanza-regional-071-2021-grh-cr` | Ordenanza Regional N° 071-2021-GRH-CR: Prorrogan plazo establecido en la Ordenanza Regional Nº 061-2021-GRH/CR, que amplía el plazo previsto en la Ordenanza Regional Nº 040-2020-GRH/CR que aprobó el Reglamento de Organización y Funciones (ROF) del Gobierno Regional Huánuco | 1 | 2022-01-02 to 2022-01-02 |
+| `ordenanza-regional-069-2021-grh-cr` | Ordenanza Regional N° 069-2021-GRH-CR: Aprueban el Plan de Acción Regional de Seguridad Ciudadana 2021 | 1 | 2021-12-02 to 2021-12-02 |
+| `ordenanza-regional-068-2021-grh-cr` | Ordenanza Regional N° 068-2021-GRH-CR: Declaran de necesidad pública y prioridad regional la ejecución del proyecto de inversión pública: Creación del Camino Vecinal Independencia - Tinquicocha - Raura, distrito de San Miguel de Cauri, provincia de Lauricocha, departamento de Huánuco | 1 | 2021-12-02 to 2021-12-02 |
+| `ordenanza-regional-067-2021-grh-cr` | Ordenanza Regional N° 067-2021-GRH-CR: Aprueban la Creación del Consejo Regional para las Personas Adultas Mayores del Gobierno Regional Huánuco | 1 | 2021-12-02 to 2021-12-02 |
+| `ordenanza-regional-066-2021-grh-cr` | Ordenanza Regional N° 066-2021-GRH-CR: Aprueban modificación de la Ordenanza Regional N° 044-2006-E-CR-GRH, que crea el Consejo Regional de Trabajo y Promoción del Empleo del Gobierno Regional Huánuco | 1 | 2021-12-02 to 2021-12-02 |
+| `ordenanza-regional-062-2021-grh-cr` | Ordenanza Regional N° 062-2021-GRH-CR: Ordenanza que dispone la creación del Fonsdo de Desarrollo Sostenible Andino Amazónico Regional de Huánuco - FONDESAARH | 1 | 2021-08-09 to 2021-08-09 |
+| `ordenanza-regional-061-2021-grh-cr` | Ordenanza Regional N° 061-2021-GRH-CR: Amplían plazo para la implementación del Reglamento de Organización y Funciones (ROF) del Gobierno Regional Huánuco | 1 | 2021-07-08 to 2021-07-08 |
+| `ordenanza-regional-060-2021-grh-cr` | Ordenanza Regional N° 060-2021-GRH-CR: Declaran de interés y prioridad regional la ejecución del proyecto de inversión: “Creación del Servicio de Transitabilidad en el tramo: EMP. HU-1161 (Tunancancha) - Huancán - Picón (Colpas), distrito de San Miguel de Cauri, provincia de Lauricocha, departamento | 1 | 2021-06-25 to 2021-06-25 |
+| `ordenanza-regional-059-2021-grh-cr` | Ordenanza Regional N° 059-2021-GRH-CR: Declaran de necesidad pública y prioridad regional la construcción de la carretera tramo: “Chucchuc - Gochamachay - Yanaututo - Tunancancha, distrito de Colpas y San Miguel de Cauri, provincia de Ambo y Lauricocha, departamento de Huánuco” | 1 | 2021-06-25 to 2021-06-25 |
+| `ordenanza-regional-058-2021-grh-cr` | Ordenanza Regional N° 058-2021-GRH-CR: Declaran de prioridad e interés regional, el proceso de creación del distrito de “Huaracillo”, en la provincia de Huacaybamba, departamento de Huánuco. | 1 | 2021-06-25 to 2021-06-25 |
+| `ordenanza-regional-057-2021-grh-cr` | Ordenanza Regional N° 057-2021-GRH-CR: Aprueban el Reglamento para el Desarrollo del Proceso del Presupuesto Participativo Basado en Resultados 2022 del Gobierno Regional Huánuco | 1 | 2021-05-07 to 2021-05-07 |
+| `ordenanza-regional-055-2021-grh-cr` | Ordenanza Regional N° 055-2021-GRH-CR: Declaran de necesidad pública y prioridad regional la culminación del expediente técnico y ejecución del proyecto: “Rehabilitación y Mejoramiento de la carretera Empalme Ruta AN 111 - Huamanin - Progreso - Poque - Llata - Cochapata - (Túnel Taytamayo) - Nuevas  | 1 | 2021-04-11 to 2021-04-11 |
+| `ordenanza-regional-056-2021-grh-cr` | Ordenanza Regional N° 056-2021-GRH-CR: Aprueban Texto Único de Procedimientos Administrativos del Gobierno Regional Huánuco | 1 | 2021-03-25 to 2021-03-25 |
+| `ordenanza-regional-053-2020-grh-cr` | Ordenanza Regional N° 053-2020-GRH-CR: Declaran de necesidad pública y prioridad regional, el mantenimiento permanente de los Establecimientos de Salud de las Comunidades Nativas en el Departamento de Huánuco | 1 | 2021-02-27 to 2021-02-27 |
+| `ordenanza-regional-052-2020-grh-cr` | Ordenanza Regional N° 052-2020-GRH-CR: Modifican la Ordenanza Regional N° 092-2018-GRH-CR, que conforma la Comisión Regional de Registros Genealógicos de Alpacas y Llamas de la región Huánuco | 1 | 2021-02-27 to 2021-02-27 |
+| `ordenanza-regional-051-2020-grh-cr` | Ordenanza Regional N° 051-2020-GRH-CR: Crean la Red Regional de Mujeres Emprendedoras y Empresarias de la Región Huánuco | 1 | 2021-02-27 to 2021-02-27 |
+| `ordenanza-regional-050-2020-grh-cr` | Ordenanza Regional N° 050-2020-GRH-CR: Declaran de necesidad pública y prioridad regional, la prevención y reducción de riesgo eléctrico, en el departamento de Huánuco | 1 | 2021-02-27 to 2021-02-27 |
+| `ordenanza-regional-048-2020-grh-cr` | Ordenanza Regional N° 048-2020-GRH-CR: Declaran de interés regional la creación de la Marca de Certificación “Huánuco” | 1 | 2021-02-27 to 2021-02-27 |
+| `ordenanza-regional-042-2020-grh-cr` | Ordenanza Regional N° 042-2020-GRH-CR: Aprueban la creación de la Casa Hogar de Refugio para Personas Vulnerables (indigentes y de la tercera edad) en el Caserío de Nueva Altura, Distrito de Castillo Grande, Provincia de Leoncio Prado, Región Huánuco | 1 | 2021-02-27 to 2021-02-27 |
+| `ordenanza-regional-041-2020-grh-cr` | Ordenanza Regional N° 041-2020-GRH-CR: Aprueban el “Plan de Acción Regional de Seguridad Ciudadana 2020” | 1 | 2021-02-27 to 2021-02-27 |
+| `ordenanza-regional-038-2020-grh-cr` | Ordenanza Regional N° 038-2020-GRH-CR: Declaran de prioridad e interés regional, el proceso de creación del Distrito de “Puerto Sungaro”, en la provincia de Puerto Inca, departamento de Huánuco | 1 | 2021-01-26 to 2021-01-26 |
+| `ordenanza-regional-035-2020-grh-cr` | Ordenanza Regional N° 035-2020-GRH-CR: Declaran como Política Pública Regional la Lucha Contra la Violencia desde la Familia en la Región Huánuco. | 1 | 2021-01-26 to 2021-01-26 |
+| `ordenanza-regional-036-2020-grh-cr` | Ordenanza Regional N° 036-2020-GRH-CR: Declaran de prioridad e interés regional, el proceso de Creación del Distrito de “Supte San Jorge”, en la provincia de Leoncio Prado, departamento de Huánuco | 1 | 2021-01-26 to 2021-01-26 |
+| `ordenanza-regional-034-2020-grh-cr` | Ordenanza Regional N° 034-2020-GRH-CR: Modifican la Ordenanza Regional N° 026-2020-GRH-CR, que aprueba el Reglamento para el Desarrollo de Audiencias Públicas de Rendición de Cuentas del Gobierno Regional Huánuco | 1 | 2021-01-26 to 2021-01-26 |
+| `ordenanza-regional-037-2020-grh-cr` | Ordenanza Regional N° 037-2020-GRH/CR: Ordenanza Regional que declara de prioridad e interés regional el proceso de creación del distrito de Huarichaca, en la provincia de Pachitea, departamento de Huánuco | 1 | 2021-01-26 to 2021-01-26 |
+| `ordenanza-regional-032-2020-grh-cr` | Ordenanza Regional N° 032-2020-GRH-CR: Ordenanza Regional que declara de necesidad pública e interés regional la ejecución del Proyectode Inversión Pública "Mejoramiento y Ampliación de los Servicios de Transitabilidad de la Vía Departamental Ruta 114 - Trayectoria Puente Huancachupa - La Esperanza, | 1 | 2020-12-19 to 2020-12-19 |
+| `ordenanza-regional-030-2020-grh-cr` | Ordenanza Regional N° 030-2020-GRH-CR: Declaran de necesidad pública e interés regional la Recategorización del Centro de Salud La Unión - Red de Salud Dos de Mayo, de I-4 a II-1 | 1 | 2020-11-28 to 2020-11-28 |
+| `ordenanza-regional-028-2020-grh-cr` | Ordenanza Regional N° 028-2020-GRH-CR: Declaran en Emergencia el Saneamiento Físico Legal de los Establecimientos de Salud de la Región Huánuco | 1 | 2020-11-06 to 2020-11-06 |
+| `ordenanza-regional-027-2020-grh-cr` | Ordenanza Regional N° 027-2020-GRH-CR: Declaran en Emergencia el Saneamiento Físico Legal de las Instituciones Educativas de la Región Huánuco | 1 | 2020-11-06 to 2020-11-06 |
+| `ordenanza-regional-021-2020-grh-cr` | Ordenanza Regional N° 021-2020-GRH-CR: Aprueban Cuadro de Asignación de Personal Provisional de la Unidad Ejecutora 409, Red de Salud Pachitea | 1 | 2020-09-15 to 2020-09-15 |
+| `ordenanza-regional-018-2020-grh-cr` | Ordenanza Regional N° 018-2020-GRH-CR: Derogan la Ordenanza Regional N° 020-2015-CR-GRH | 1 | 2020-08-22 to 2020-08-22 |
+| `ordenanza-regional-019-2020-grh-cr` | Ordenanza Regional N° 019-2020-GRH-CR: Aprueban el “Plan   de   Inseminación Artificial de Ganado Vacuno en las Provincias de Lauricocha y Dos de Mayo - Región Huánuco” | 1 | 2020-08-22 to 2020-08-22 |
+| `ordenanza-regional-020-2020-grh-cr` | Ordenanza Regional N° 020-2020-GRH-CR: Aprueban el Cuadro de Asignación de Personal Provisional (CAP-P) de la Unidad Ejecutora 408, Red de Salud Ambo | 1 | 2020-08-22 to 2020-08-22 |
+| `ordenanza-regional-025-2020-grh-cr` | Ordenanza Regional N° 025-2020-GRH-CR: Ordenanza que establece como Política Pública Regional Permanente la Promoción y Desarrollo de la Agricultura Familiar con Soberanía y Seguridad Alimentaria Nutricional | 1 | 2020-08-06 to 2020-08-06 |
+| `ordenanza-regional-024-2020-grh-cr` | Ordenanza Regional N° 024-2020-GRH-CR: Ordenanza que aprueba el Programa Regional Siembra y Cosecha de Agua en el ámbito del departamento de Huánuco | 1 | 2020-08-06 to 2020-08-06 |
+| `ordenanza-regional-023-2020-grh-cr` | Ordenanza Regional N° 023-2020-GRH-CR: Ordenanza Regional que declara en situación de emergencia el sector agropecuario y la seguridad alimentaria nutricional en la Región Huánuco | 1 | 2020-07-25 to 2020-07-25 |
+| `ordenanza-regional-014-2019-grhco` | Ordenanza Regional N° 014-2019-GRHCO.: Ordenanza que declara como política pública permanente del Gobierno Regional Huánuco el Desarrollo en la Salud Mental y Física a Nivel Regional | 1 | 2020-02-24 to 2020-02-24 |
+| `ordenanza-regional-015-2019-grh-cr` | Ordenanza Regional N° 015-2019-GRH-CR: Ordenanza que aprueba el Reglamento para el Desarrollo del Proceso del Presupuesto Participativo basado en Resultados 2021 del Gobierno Regional Huánuco | 1 | 2020-02-24 to 2020-02-24 |
+| `ordenanza-regional-017-2019-grh-cr` | Ordenanza Regional N° 017-2019-GRH-CR: Ordenanza que ratifica la jurisdicción territorial del Gobierno Regional Huánuco sobre el distrito de Huallanca y Pachas de la provincia de Dos de Mayo | 1 | 2020-02-24 to 2020-02-24 |
+| `ordenanza-regional-016-2019-grh-cr` | Ordenanza Regional N° 016-2019-GRH-CR: Ordenanza que declara como política pública del Gobierno Regional de Huánuco el Sistema Único Sanitario Regional - SUSAR | 1 | 2020-02-24 to 2020-02-24 |
+| `ordenanza-regional-013-2019-grh-cr` | Ordenanza Regional N° 013-2019-GRH-CR: Ordenanza que dispone reconocer y realizar el Cálculo de Derechos Laborales de trabajadores y docentes en base a la remuneración total mensual | 1 | 2019-12-26 to 2019-12-26 |
+| `ordenanza-regional-008-2019-grhco` | Ordenanza Regional N° 008-2019-GRHCO: Ordenanza Regional que aprueba la implementación del Acuerdo de Gobernabilidad Regional Concertado para el Desarrollo Integral de Huánuco 2019 - 2022 | 1 | 2019-12-07 to 2019-12-07 |
+| `ordenanza-regional-009-2019-grhco` | Ordenanza Regional N° 009-2019-GRHCO: Ordenanza Regional que declara de interés y necesidad social la atención de las prioridades sanitarias regionales | 1 | 2019-12-07 to 2019-12-07 |
+| `ordenanza-regional-010-2019-grhco` | Ordenanza Regional N° 010-2019-GRHCO: Ordenanza Regional que oficializa el Acuerdo Regional de Gobernanza Ambiental "Huánuco Sostenible - 2018" | 1 | 2019-12-07 to 2019-12-07 |
+| `ordenanza-regional-006-2019-grh-cr` | Ordenanza Regional N° 006-2019-GRH-CR: Aprueban modificación del Artículo Primero de la Ordenanza Regional N° 070-2017-GRHCO, sobre aprobación del "Impulso al Trabajo Juvenil como Política Laboral Juvenil en la Región Huánuco" | 1 | 2019-09-21 to 2019-09-21 |
+| `ordenanza-regional-005-2019-grhco` | Ordenanza Regional N° 005-2019-GRHCO.: Declaran de interés regional la implementación de Mecanismos de Retribución por Servicios Ecosistémicos (MRSE) y reconocen la conformación de la Plataforma Regional de Huánuco | 1 | 2019-09-21 to 2019-09-21 |
+| `ordenanza-regional-003-2019-grhco` | Ordenanza Regional N° 003-2019-GRHCO: Aprueban el "Programa Regional de Salud Familiar y Comunitaria" como política pública del Gobierno Regional Huánuco | 1 | 2019-05-01 to 2019-05-01 |
+| `ordenanza-regional-001-2019-grhco` | Ordenanza Regional N° 001-2019-GRHCO: Aprueban el Plan de Trabajo y Reglamento del Proceso del Presupuesto Participativo Basado en Resultados del 2020 - 2022 del Gobierno Regional Huánuco | 1 | 2019-04-26 to 2019-04-26 |
+| `ordenanza-regional-104-2019-grhco` | Ordenanza Regional N° 104-2019-GRHCO.: Aprueban el Plan Estratégico Regional de Turismo Huánuco 2025 | 1 | 2019-03-01 to 2019-03-01 |
+| `ordenanza-regional-103-2018-grhco` | Ordenanza Regional N° 103-2018-GRHCO: Declaran de interés público regional la conservación y protección de las cabeceras de cuencas de los ríos Sungaroyacu y Pozuzo | 1 | 2019-01-26 to 2019-01-26 |
+| `ordenanza-regional-102-2018-grhco` | Ordenanza Regional N° 102-2018-GRHCO: Aprueban la creación de la Red de Voluntariado Ambiental Juvenil de Huánuco | 1 | 2019-01-26 to 2019-01-26 |
+| `ordenanza-regional-099-2018-grhco` | Ordenanza Regional N° 099-2018-GRHCO.: Declaran de necesidad pública regional la política agraria regional del Gobierno Regional de Huánuco | 1 | 2018-12-03 to 2018-12-03 |
+| `ordenanza-regional-098-2018-grhco` | Ordenanza Regional N° 098-2018-GRHCO.: Declaran de necesidad e interés regional el reconocimiento de la existencia de los pueblos originarios e indígenas dentro de la Región Huánuco | 1 | 2018-12-03 to 2018-12-03 |
+| `ordenanza-regional-097-2018-grhco` | Ordenanza Regional N° 097-2018-GRHCO: Aprueban el Reglamento de Supervisión, Fiscalización y Sanción en Materia Ambiental del Gobierno Regional Huánuco | 1 | 2018-11-22 to 2018-11-22 |
+| `ordenanza-regional-094-2018-grhco` | Ordenanza Regional N° 094-2018-GRHCO.: Aprueban el Reglamento para la Atención de Denuncias en Materia Ambiental presentadas al Gobierno Regional Huánuco | 1 | 2018-10-18 to 2018-10-18 |
+| `ordenanza-regional-095-2018-grhco` | Ordenanza Regional N° 095-2018-GRHCO: Aprueban el Diagnóstico Ambiental Regional de Huánuco  (DAR -Huánuco) | 1 | 2018-10-18 to 2018-10-18 |
+| `ordenanza-regional-096-2018-grhco` | Ordenanza Regional N° 096-2018-GRHCO: Aprueban Cuadro de Asignación de Personal Provisional (CAP-P) de la Dirección Regional de Salud de Huánuco y sus siete (7) Unidades Ejecutoras | 1 | 2018-10-18 to 2018-10-18 |
+| `ordenanza-regional-092-2018-grhco` | Ordenanza Regional N° 092-2018-GRHCO.: Constituyen Comisión Regional de Registros Genealógicos de Alpacas y Llamas de la Región Huánuco | 1 | 2018-10-05 to 2018-10-05 |
+| `ordenanza-regional-090-2018-grhco` | Ordenanza Regional N° 090-2018-GRHCO.: Declaran de necesidad e interés regional el Censo de la Etnografía del Patrimonio Biocultural de los Pueblos Campesinos y Nativos de la Región Huánuco | 1 | 2018-09-09 to 2018-09-09 |
+| `ordenanza-regional-084-2018-cr-grh` | Ordenanza Regional N° 084-2018-CR-GRH: Aprueban el Reglamento de Organización y Funciones (ROF) de la Red de Salud Yarowilca - Huánuco | 1 | 2018-07-29 to 2018-07-29 |
+| `ordenanza-regional-087-2018-grhco` | Ordenanza Regional N° 087-2018-GRHCO.: Aprueban la prohibición de la pesca indiscriminada e irracional con sustancias tóxicas y explosivos en cochas, quebradas, lagos y otras corrientes de aguas de los ríos de las cuencas del Huallaga, Pachitea, Marañón de la Región Huánuco | 1 | 2018-07-13 to 2018-07-13 |
+| `ordenanza-regional-088-2018-grhco` | Ordenanza Regional N° 088-2018-GRHCO: Aprueban la Estrategia y Plan de Acción Regional de la Diversidad Biológica de la Región Huánuco | 1 | 2018-07-13 to 2018-07-13 |
+| `ordenanza-regional-085-2018-grhco` | Ordenanza Regional N° 085-2018-GRHCO.: Aprueban Reglamento del Consejo Regional de Fomento Artesanal de la Región Huánuco - COREFARH | 1 | 2018-07-13 to 2018-07-13 |
+| `ordenanza-regional-083-2018-grhco` | Ordenanza Regional N° 083-2018-GRHCO.: Aprueban el Cuadro para Asignación de Personal Provisional de la Unidad Ejecutora N° 001 - Sede Central del Gobierno Regional de Huánuco | 1 | 2018-03-30 to 2018-03-30 |
+| `ordenanza-regional-082-2018-grhco` | Ordenanza Regional N° 082-2018-GRHCO: Aprueban el Plan de Trabajo y Reglamento del Proceso del Presupuesto Participativo basado en resultados del 2019 - 2021 del Gobierno Regional de Huánuco | 1 | 2018-03-30 to 2018-03-30 |
+| `ordenanza-regional-081-2018-grhco` | Ordenanza Regional N° 081-2018-GRHCO.: Aprueban la Actualización del Plan Regional Exportador Huánuco 2025 | 1 | 2018-03-18 to 2018-03-18 |
+| `ordenanza-regional-077-2017-grhco` | Ordenanza Regional N° 077-2017-GRHCO: Aprueban el Plan Regional de Acuicultura (PRA)( Huánuco 2017-2030 | 1 | 2017-12-22 to 2017-12-22 |
+| `ordenanza-regional-078-2017-grhco` | Ordenanza Regional N° 078-2017-GRHCO: Declaran de Interés Regional la Conservación y Recuperación de los Bosques Amazónicos y Andinos de la Región Huánuco | 1 | 2017-12-22 to 2017-12-22 |
+| `ordenanza-regional-076-2017-grhco` | Ordenanza Regional N° 076-2017-GRHCO.: Aprobar la creación de la "Instancia Regional de Concertación de la Región Huánuco para Erradicar la Violencia contra la Mujer y los Integrantes del Grupo Familiar" | 1 | 2017-10-22 to 2017-10-22 |
+| `ordenanza-regional-075-2017-grhco` | Ordenanza Regional N° 075-2017-GRHCO.: Aprobar la constitución de la Mesa Regional para la Persona Adulta Mayor de la Región Huánuco | 1 | 2017-10-22 to 2017-10-22 |
+| `ordenanza-regional-074-2017-grhco` | Ordenanza Regional N° 074-2017-GRHCO.: Aprueban Cuadro de Asignación de Personal Provisional de la Dirección Regional de Educación Huánuco y de las once Unidades de Gestión Educativas Locales de la DREHCO | 1 | 2017-09-16 to 2017-09-16 |
+| `ordenanza-regional-072-2017-grhco` | Ordenanza Regional N° 072-2017-GRHCO.: Aprueban la "Meso Zonificación Ecológica y Económica de las Provincias de Marañón, Leoncio Prado, Huánuco, Pachitea y Puerto Inca del Departamento de Huánuco" | 1 | 2017-08-20 to 2017-08-20 |
+| `ordenanza-regional-070-2017-grhco` | Ordenanza Regional N° 070-2017-GRHCO.: Aprueban el "Impulso al Trabajo Juvenil como Política Laboral Juvenil en la Región Huánuco", que impulsará la incorporación laboral de jóvenes de hasta 25 años de edad, que hayan obtenido su titulación como técnico y/o profesional que no cuenten con experiencia | 1 | 2017-08-03 to 2017-08-03 |
+| `ordenanza-regional-071-2017-grhco` | Ordenanza Regional N° 071-2017-GRHCO.: Declaran de Interés Regional "La Zonificación y Ordenamiento Forestal del Departamento de Huánuco" | 1 | 2017-08-03 to 2017-08-03 |
+| `ordenanza-regional-069-2017-grhco` | Ordenanza Regional N° 069-2017-GRHCO: Ordenanza que declara Feriado No Laborable en todo el ámbito de la Región Huánuco, el 24 de junio de cada año por celebrarse el "Día del Campesino Huanuqueño" y "Fiesta de San Juan en la Zona Selva de Huánuco" | 1 | 2017-05-28 to 2017-05-28 |
+| `ordenanza-regional-068-2017-grhco` | Ordenanza Regional N° 068-2017-GRHCO: Aprueban la creación de la Infraestructura de Datos Especiales Regionales del Gobierno Regional de Huánuco - IDER Huánuco | 1 | 2017-05-28 to 2017-05-28 |
+| `ordenanza-regional-067-2017-grhco` | Ordenanza Regional N° 067-2017-GRHCO: Aprueban la modificación de la Ordenanza Regional N° 095-2014-CR-GRH que aprueba el reconocimiento y la recomposición de la Comisión Ambiental Regional - CAR Huánuco | 1 | 2017-05-28 to 2017-05-28 |
+| `ordenanza-regional-066-2017-cr-grh` | Ordenanza Regional N° 066-2017-CR-GRH: Aprueban Reglamento de Organización y Funciones (ROF) de la Red de Salud Pachitea - Huánuco | 1 | 2017-04-24 to 2017-04-24 |
+| `ordenanza-regional-065-2017-cr-grh` | Ordenanza Regional N° 065-2017-CR-GRH: Aprueban el Plan de Trabajo y Reglamento para el desarrollo del Proceso de Planeamiento y Presupuesto Participativo basado en Resultados - 2018 | 1 | 2017-04-15 to 2017-04-15 |
+| `ordenanza-regional-064-2017-grhco` | Ordenanza Regional N° 064-2017-GRHCO: Ordenanza que aprueba la denominación del Año Regional 2017: "Año del Turismo Rural Comunitario para el Desarrollo de la Región Huánuco" | 1 | 2017-03-30 to 2017-03-30 |
+| `ordenanza-regional-061-2016-grhco` | Ordenanza Regional N° 061-2016-GRHCO: Ordenanza Regional que aprueba el "Plan de Desarrollo Regional Concertado - Huánuco al 2021" | 1 | 2017-02-03 to 2017-02-03 |
+| `ordenanza-regional-062-2016-cr-grh` | Ordenanza Regional N° 062-2016-CR-GRH: Aprueban Reglamento de Organización y Funciones (ROF) de la Dirección Regional de Transportes y Comunicaciones Huánuco | 1 | 2017-02-02 to 2017-02-02 |
+| `ordenanza-regional-063-2016-grhco` | Ordenanza Regional N° 063-2016-GRHCO: Ordenanza que aprueba la Estrategia de las Redes Educativas como Propuesta de Formación en Servicio continua de la Región Huánuco | 1 | 2017-02-02 to 2017-02-02 |
+| `ordenanza-regional-060-2016-cr-grh` | Ordenanza Regional N° 060-2016-CR-GRH: Ordenanza que dispone que se incluya al distrito de Huallanca en el Estudio de Diagnóstico y Zonificación (EDZ) y Zonificación Económica Ecológica (ZEE) de la provincia de Dos de Mayo, Región Huánuco | 1 | 2016-12-24 to 2016-12-24 |
+| `ordenanza-regional-059-2016-cr-grh` | Ordenanza Regional N° 059-2016-CR-GRH: Aprobar la creación en el Gobierno Regional de Huánuco, la Sub Gerencia de Comunidades Campesinas y Nativas de la Región Huánuco | 1 | 2016-11-13 to 2016-11-13 |
+| `ordenanza-regional-057-2016-grhco` | Ordenanza Regional N° 057-2016-GRHCO: Ordenanza que aprueba declarar al distrito de Baños en la Microcuenca del Nupe, provincia de Lauricocha como Capital Quesera de la región Huánuco; al caserío de Montevideo del distrito de  Chaglla, provincia de Pachitea como Capital Quesera de la Cuenca de Alto  | 1 | 2016-10-17 to 2016-10-17 |
+| `ordenanza-regional-058-2016-grhco` | Ordenanza Regional N° 058-2016-GRHCO: Ordenanza que aprueba declarar como Área de Prioridad e Interés Regional la recuperación y conservación ambiental del humedal “El Totoral” - Sector Huachog del Centro Poblado de Colpa Baja - Provincia - Huánuco - Región Huánuco | 1 | 2016-10-17 to 2016-10-17 |
+| `ordenanza-regional-056-2016-grhco` | Ordenanza Regional N° 056-2016-GRHCO: Ordenanza que aprueba declarar al Distrito de Molino de la provincia de Pachitea Capital Histórica de la producción de truchas de la región Huánuco | 1 | 2016-10-17 to 2016-10-17 |
+| `ordenanza-regional-053-2016-grhco` | Ordenanza Regional N° 053-2016-GRHCO: Ordenanza que aprueba el Plan de Fortalecimiento y Desarrollo de Capacidades Humanas - Desarrollo de la Identidad Cultural de la Región Huánuco | 1 | 2016-09-16 to 2016-09-16 |
+| `ordenanza-regional-051-2016-cr-grh` | Ordenanza Regional N° 051-2016-CR-GRH: Aprobar la implementación como política del Gobierno Regional Huánuco la adquisición de productos comestibles y manufacturados elaborados en nuestra Región considerando las Normas de la materia y promover que las Instituciones Públicas y Privadas del ámbito Reg | 1 | 2016-09-15 to 2016-09-15 |
+| `ordenanza-regional-050-2016-cr-grh` | Ordenanza Regional N° 050 2016-CR-GRH: Modifican el Reglamento de Organización y Funciones de la Dirección Regional de Energía, Minas e Hidrocarburos Huánuco | 1 | 2016-08-29 to 2016-08-29 |
+| `ordenanza-regional-052-2016-cr-grh` | Ordenanza Regional N° 052-2016-CR-GRH: Declarar Feriado Cívico No laborable como único día el lunes 15 de agosto del 2016 con motivo de conmemorar el 477 Aniversario de la ciudad de Huánuco, capital de la región Huánuco | 1 | 2016-08-14 to 2016-08-14 |
+| `ordenanza-regional-049-2016-cr-grh` | Ordenanza Regional N° 049-2016-CR-GRH: Aprueban el Reglamento de Fiscalización para las actividades mineras de la pequeña minería y minería artesanal o similares en la Región Huánuco | 1 | 2016-08-11 to 2016-08-11 |
+| `ordenanza-regional-048-2016-cr-grh` | Ordenanza Regional N° 048-2016-CR-GRH: Aprueba el Reglamento de Organización y Funciones (ROF) de la Red de Salud - Ambo | 1 | 2016-08-11 to 2016-08-11 |
+| `ordenanza-regional-045-2016-cr-grh` | Ordenanza Regional N° 045 2016-CR-GRH: Aprueban la constitución de la Mancomunidad Regional Pacífico Centro Amazónica | 1 | 2016-05-21 to 2016-05-21 |
+| `ordenanza-regional-044-2016-cr-grh` | Ordenanza Regional N° 044-2016-CR-GRH: Aprueban el Texto Único de Procedimientos Administrativos TUPA de la Dirección Regional de Transportes y Comunicaciones Huánuco | 1 | 2016-05-06 to 2016-05-06 |
+| `ordenanza-regional-046-2016-cr-grh` | Ordenanza Regional N° 046-2016-CR-GRH: Aprueban el Plan de Trabajo y Reglamento para el Desarrollo del Proceso de Planeamiento y Presupuesto Participativo Basado en Resultados 2017 | 1 | 2016-05-05 to 2016-05-05 |
+| `ordenanza-regional-043-2016-cr-grh` | Ordenanza Regional N° 043-2016-CR-GRH: Declarar de interés público y prioritario la prevención contra el racismo y cualquier acto de discriminación o exclusión social en la Región Huánuco | 1 | 2016-04-23 to 2016-04-23 |
+| `ordenanza-regional-041-2015-cr-grh` | Ordenanza Regional N° 041-2015-CR-GRH: Incorporar a la Autoridad Administrativa del Agua en la Ordenanza Regional N° 031-2015-CR/GRH | 1 | 2016-04-17 to 2016-04-17 |
+| `ordenanza-regional-031-2015-cr-grh` | Ordenanza Regional N° 031-2015-CR-GRH: Aprobar la modificación de la conformación de la Comisión Técnica Regional de Zonificación Ecológica y Económica del Ordenamiento Territorial de la Región Huánuco | 1 | 2016-04-17 to 2016-04-17 |
+| `ordenanza-regional-038-2015-cr-grh` | Ordenanza Regional N° 038-2015-CR-GRH: Aprueban la Constitución del Consejo Consultivo Regional de Niñas, Niños y Adolescentes de la Región Huánuco - CCONNA Región Huánuco | 1 | 2016-04-17 to 2016-04-17 |
+| `ordenanza-regional-042-2016-cr-grh` | Ordenanza Regional N° 042-2016-CR-GRH: Aprueban Texto Único de Procedimientos Administrativos TUPA de la Dirección Regional de Salud Huánuco | 1 | 2016-03-15 to 2016-03-15 |
+| `ordenanza-regional-036-2015-cr-grh` | Ordenanza Regional N° 036-2015-CR-GRH: Declaran de interés cultural el Qhapaq Ñan/ Sistema Vial Andino y los sitios arqueológicos asociados a él, comprendido en las áreas de máxima protección (AMP) Huánuco Pampa, Huaricashash, Inka Patsacan, Quebrada Cashan - Taparaku y Tambo de Llata en la Región H | 1 | 2016-03-13 to 2016-03-13 |
+| `ordenanza-regional-040-2015-cr-grh` | Ordenanza Regional N° 040-2015-CR-GRH: Declaran de interés regional la demarcación territorial de la Región Huánuco con las regiones colindantes | 1 | 2016-03-13 to 2016-03-13 |
+| `ordenanza-regional-037-2015-cr-grh` | Ordenanza Regional N° 037-2015-CR-GRH: Declaran de interés regional el desarrollo infantil temprano DIT como prioridad política pública regional | 1 | 2016-03-13 to 2016-03-13 |
+| `ordenanza-regional-035-2015-cr-grh` | Ordenanza Regional N° 035-2015-CR-GRH: Aprueban la creación e implementación de la Orquesta Sinfónica en la Región Huánuco | 1 | 2016-02-28 to 2016-02-28 |
+| `ordenanza-regional-033-2015-cr-grh` | Ordenanza Regional N° 033-2015-CR-GRH: Declarar el Día del Aguardiente de Caña de Azúcar de Huánuco el Segundo Sábado de Setiembre de cada año a nivel regional | 1 | 2016-02-28 to 2016-02-28 |
+| `ordenanza-regional-032-2015-cr-grh` | Ordenanza Regional N° 032-2015-CR-GRH: Créase el Sistema de Información Ambiental Regional en el Gobierno Regional Huánuco | 1 | 2016-02-28 to 2016-02-28 |
+| `ordenanza-regional-034-2015-cr-grh` | Ordenanza Regional N° 034-2015-CR-GRH: Aprueban Cuadro para Asignación de Personal Provisional (CAP - P) de las Redes de Salud de Huánuco, Leoncio Prado, Huamalíes y Dos de Mayo | 1 | 2015-12-24 to 2015-12-24 |
+| `ordenanza-regional-029-2015-cr-grh` | Ordenanza Regional N° 029 2015-CR-GRH: Aprueban creación del Comité Regional Intergubernamental de Inversiones en Salud (CRIIS) Huánuco | 1 | 2015-12-19 to 2015-12-19 |
+| `ordenanza-regional-028-2015-cr-grh` | Ordenanza Regional N° 028 2015-CR-GRH: Aprueban modificación de la Ordenanza Regional N° 015-2015-CR-GRH | 1 | 2015-12-19 to 2015-12-19 |
+| `ordenanza-regional-027-2015-cr-grh` | Ordenanza Regional N° 027-2015-CR-GRH: Aprueban la modificación de la Ordenanza Regional Nº 031-E-2005-CR-GRH  que creó el Consejo Regional de la Juventud del Gobierno Regional | 1 | 2015-12-18 to 2015-12-18 |
+| `ordenanza-regional-025-2015-cr-grh` | Ordenanza Regional N° 025-2015-CR-GRH: Aprueban Políticas Regionales de Desarrollo Social del Gobierno Regional Huánuco 2015 - 2018 | 1 | 2015-11-10 to 2015-11-10 |
+| `ordenanza-regional-026-2015-cr-grh` | Ordenanza Regional N° 026-2015-CR-GRH: Aprueban la institucionalización del Acta de Compromiso para priorizar en los Planes de Gobierno los derechos y la protección de los niños, niñas y adolescentes de la Región Huánuco | 1 | 2015-11-10 to 2015-11-10 |
+| `ordenanza-regional-023-2015-cr-grh` | Ordenanza Regional N° 023-2015-CR-GRH: Declaran a la provincia de Huamalíes como Capital Folklórica de la Región Huánuco
+
+
+. | 1 | 2015-10-17 to 2015-10-17 |
+| `ordenanza-regional-022-2015-cr-grh` | Ordenanza Regional N° 022-2015-CR-GRH.: Modifican la Ordenanza Regional N° 048-2013-CR/GRH | 1 | 2015-10-15 to 2015-10-15 |
+| `ordenanza-regional-024-2015-cr-grh` | Ordenanza Regional N° 024-2015-CR-GRH.: Aprueban las Prioridades Regionales de Investigación en Salud para el periodo 2015-2021 | 1 | 2015-10-15 to 2015-10-15 |
+| `ordenanza-regional-020-2015-cr-grh` | Ordenanza Regional N° 020 2015-CR-GRH: Aprueban la oficialización de la Ortografía del idioma Quechua del Chinchaysuyu en la Región Huánuco y dejan sin fecto la Ordenanza Regional N° 100-2014-CR-GRH | 1 | 2015-07-26 to 2015-07-26 |
+| `ordenanza-regional-021-2015-cr-grh` | Ordenanza Regional N° 021-2015-CR-GRH: Aprueban el Cuadro para Asignación de Personal Provisional (CAP-P) del Hospital Tingo María | 1 | 2015-07-26 to 2015-07-26 |
+| `ordenanza-regional-012-2015-cr-grh` | Ordenanza Regional N° 012-2015-CR-GRH: Aprueba el Acuerdo de Gobernabilidad por el Desarrollo Humano Integral y Lucha Contra la Pobreza de Huánuco 2015-2018 | 1 | 2015-07-23 to 2015-07-23 |
+| `ordenanza-regional-019-2015-cr-grh` | Ordenanza Regional N° 019-2015-CR-GRH: Aprueban el Cuadro para Asignación de Personal Provisional (CAP-P) del Archivo Regional de Huánuco | 1 | 2015-07-11 to 2015-07-11 |
+| `ordenanza-regional-011-2015-cr-grh` | Ordenanza Regional N° 011-2015-CR-GRH: Aprueban el Plan Estratégico Regional de Semillas de la Región Huánuco periodo 2015-2021 | 1 | 2015-06-25 to 2015-06-25 |
+| `ordenanza-regional-060-2009-cr-grh` | Ordenanza Regional N° 060-2009-CR-GRH: Aprueba ejecución del Proceso de Planeamiento y Presupuesto Participativo Regional 2010 del Gobierno Regional Huánuco | 1 | 2009-05-09 to 2009-05-09 |
+| `ordenanza-regional-071-2009-cr-grh` | Ordenanza Regional N° 071-2009-CR-GRH: Aprueban el "Plan Estratégico Regional Agrario 2008-2021" de la Región Huánuco | 1 | 2009-12-25 to 2009-12-25 |
+| `ordenanza-regional-086-2010-cr-grh` | Ordenanza Regional N° 086-2010-CR/GRH: Aprueban modificación del Reglamento de Organización y Funciones del Archivo Regional Huánuco | 1 | 2010-12-30 to 2010-12-30 |
+| `ordenanza-regional-076-2009-cr-grh` | Ordenanza Regional N° 076-2009-CR-GRH: Aprueban modificación del Reglamento de Organización y Funciones del Gobierno Regional | 1 | 2010-03-28 to 2010-03-28 |
+| `ordenanza-regional-013-2015-cr-grh` | Ordenanza Regional N° 013-2015-CR/GRH: Aprueban la modificación del Reglamento de Organización y Funciones (ROF) de la Dirección de Red de Salud Huánuco
+
+
+. | 1 | 2015-05-31 to 2015-05-31 |
+| `ordenanza-regional-056-2013-cr-grh` | Ordenanza Regional N° 056-2013-CR-GRH: Aprueban el Reglamento de Organización y Funciones - ROF de la Unidad de Gestión Educativa Local - UGEL Huacaybamba | 1 | 2013-09-27 to 2013-09-27 |
+| `ordenanza-regional-053-2013-cr-grh` | Ordenanza Regional N° 053-2013-CR-GRH: Declaran la promoción de la Quinua y la obligatoriedad de su presencia en eventos y festividades que se realicen en la Región Huánuco y autorizan la organización y celebración del " Año Internacional de la Quinua 2013" | 1 | 2013-09-27 to 2013-09-27 |
+| `ordenanza-regional-006-2015-cr-grh` | Ordenanza Regional N° 006-2015-CR-GRH: Aprueba el Cuadro para Asignación de Personal Provisional (CAP-P) de la Red de Salud Leoncio Prado del Gobierno Regional Huánuco | 1 | 2015-03-30 to 2015-03-30 |
+| `ordenanza-regional-001-2015-cr-grh` | Ordenanza Regional N° 001-2015-CR-GRH: Aprueban modificación del Reglamento de Organización y Funciones - ROF de la Red de Salud Leoncio Prado | 1 | 2015-03-29 to 2015-03-29 |
+
+The build made 193 commits:
+
+| Commits | Kind |
+| ---: | --- |
+| 193 | first version of an act |
+| 0 | one law on its in-force day |
+| 0 | changes no amendment note explains, credited to the publisher |
+
+Other counts:
+- 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
+- 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 193 laws in the record.
+- 386 tags.
+
+## Dates
+
+Each commit is dated at noon (America/Lima) on the day the change took effect. The other dates, enacted and published, are trailers.
+
+When a law gives no date of its own, the default rule applies: Constitución Política del Perú, art. 109: "La ley es obligatoria desde el día siguiente de su publicación en el diario oficial, salvo disposición contraria de la misma ley que posterga su vigencia en todo o en parte." Ley Orgánica de Gobiernos Regionales (Ley 27867), art. 42, applies the same rule to regional norms: in force from the day after publication in El Peruano unless the norm itself names another day. https://www.congreso.gob.pe
+
+## How the history is built
+
+`tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
+
+- Corpus: sha256 `9a665ae32472b25134e5b4bae774b741c9e2b97fe62f35b0b8318b130723480d` (2812823 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
+- Python 3.12.10; git version 2.46.0.windows.1.
+
+## Checks
+
+193 versions of 193 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+
+No second build of this corpus has been compared yet.
+
+## Decisions made by hand
+
+- Source: the Diario Oficial El Peruano, Normas Legales, which publishes every ordinance of Gobierno Regional de Huánuco as enacted. It publishes no consolidated texts, so each ordinance is shown once, as published (the oldest version available), dated on the day it took effect. An ordinance that amends another is its own entry; its changes are not applied to the earlier text.
+- In-force day: the ordinance's own vigencia clause (the day after publication, from publication, or a named date); otherwise the day after publication (Constitución, art. 109; Ley 27867, art. 42). An ordinance whose vigencia clause this reader cannot resolve is left out.
+- Text: the ordinance is cut from El Peruano's PDF extract, from the end of the previous norm to the operation number printed under it. El Peruano's own furniture (running heads, section headings, its summary title above the norm, the operation number) is not part of the text. Annexes that El Peruano does not print are not included.
+- Units: the heading (encabezado: number, considerandos and enacting formula, everything before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (dispositions, signatures). Nothing printed between those bounds is dropped. One paragraph per line, spacing normalised, words broken at a line end joined.
+- Ordinances are added newest first, in parts of about 50.
+
+## What AI did and did not do
+
+The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+
+No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
+
+The commit messages are written by `build.py` from the source data.
+
+Model use at data-build time:
+- A model (Claude) wrote the fetch and parse code and chose which ordinances to include; it wrote no law text. Every word of law comes from El Peruano's own PDF extracts.
